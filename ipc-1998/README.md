@@ -4,6 +4,7 @@
 
 * [assembly](assembly)
 * [gripper](gripper)
+* [logistics](logistics)
 
 ## Source
 
