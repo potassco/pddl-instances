@@ -16,7 +16,7 @@
 
 ### Round 2, STRIPS
 
-## Source
+## Sources
 
 The [official website of the 1998 IPC][1] provides **two archives containing the benchmark instances.**
 [One archive][2] contains the instances in a “simple form,” while the [other archive][3] is considered the “original … more complicated” one.
@@ -29,7 +29,7 @@ Such decisions are documentated as *additional notes* in the individual readmes 
 
 ## Modifications
 
-* problem domains and instances were renamed for consistency
+* renamed problem domains and instances for consistency
 
 
 
