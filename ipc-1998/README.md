@@ -8,6 +8,7 @@
 * [gripper](gripper-round-1-adl)
 * [logistics](logistics-round-1-adl)
 * [movie](movie-round-1-adl)
+* [mprime](mprime-round-1-adl)
 
 ### Round 1, STRIPS
 
