@@ -3,6 +3,7 @@
 ## Domains
 
 * [assembly](assembly)
+* [gripper](gripper)
 
 ## Source
 
