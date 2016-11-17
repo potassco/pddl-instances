@@ -1,4 +1,4 @@
-# Movie
+# Movie (Round 1, STRIPS)
 
 ## Domain Description
 
@@ -12,6 +12,11 @@ Corin Anderson
 ## Source
 
 [IPC 1998 website](http://ipc98.icaps-conference.org/)
+
+## Additional Notes
+
+There are two slight different versions of the domain ([version 1][1], [version 2][2]).
+As it is unclear which version is considered official, version 1 was selected because it avoids an empty conjunction.
 
 ## Original File Names
 
@@ -48,3 +53,9 @@ Corin Anderson
 | instance-28.pddl | prob28.pddl   |
 | instance-29.pddl | prob29.pddl   |
 | instance-30.pddl | prob30.pddl   |
+
+
+
+
+[1]:domain.pddl
+[2]:additional-notes/domain-source-2.pddl
