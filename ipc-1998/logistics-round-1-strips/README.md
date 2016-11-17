@@ -1,4 +1,4 @@
-# Logistics
+# Logistics (Round 1, STRIPS)
 
 ## Domain Description
 
@@ -13,6 +13,11 @@ Bart Selman, Henry Kautz (based on an earlier domain by Manuela Veloso)
 ## Source
 
 [IPC 1998 website](http://ipc98.icaps-conference.org/)
+
+## Additional Notes
+
+The instances `instance-31.pddl` to `instance-35.pddl` are missing in the [original benchmark instance archive][1].
+However, they are part of the [newer archive][2] and, thus, included here.
 
 ## Original File Names
 
@@ -54,3 +59,9 @@ Bart Selman, Henry Kautz (based on an earlier domain by Manuela Veloso)
 | instance-33.pddl | prob33.pddl   |
 | instance-34.pddl | prob34.pddl   |
 | instance-35.pddl | prob35.pddl   |
+
+
+
+
+[1]:http://ipc98.icaps-conference.org/aipscomp.tar.gz
+[2]:http://ipc98.icaps-conference.org/domains.zip

@@ -9,12 +9,12 @@
 ### Round 1, STRIPS
 
 * [gripper](gripper-round-1-strips)
+* [logistics](logistics-round-1-strips)
 
 ### Round 2, STRIPS
 
 ### Unsorted
 
-* [logistics](logistics)
 * [movie](movie)
 * [mprime](mprime)
 * [mystery](mystery)
