@@ -21,7 +21,17 @@
 
 ### Round 2, STRIPS
 
+### Round 2, ADL
+
+There was no round 2 for the ADL format.
+
 ## Sources
+
+* [official website of the 1998 IPC][1]
+* [revised archive with benchmark instances][2]
+* [original archive with benchmark instances][3]
+
+## Additional Notes
 
 The [official website of the 1998 IPC][1] provides **two archives containing the benchmark instances.**
 [One archive][2] contains the instances in a “simple form,” while the [other archive][3] is considered the “original … more complicated” one.
