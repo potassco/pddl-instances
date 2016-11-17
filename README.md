@@ -1,6 +1,6 @@
 # IPC Benchmark Instances
 
-> Benchmark instances of the International Planning Competitions
+> PDDL benchmark instances of the International Planning Competitions
 
 ## Overview
 
