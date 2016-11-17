@@ -21,6 +21,8 @@
 
 ### Round 2, STRIPS
 
+* [grid](grid-round-2-strips)
+
 ### Round 2, ADL
 
 There was no round 2 for the ADL format.
