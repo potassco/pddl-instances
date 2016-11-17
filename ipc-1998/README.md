@@ -22,6 +22,7 @@
 ### Round 2, STRIPS
 
 * [grid](grid-round-2-strips)
+* [logistics](logistics-round-2-strips)
 
 ### Round 2, ADL
 
