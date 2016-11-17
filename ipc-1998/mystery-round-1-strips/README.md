@@ -1,4 +1,4 @@
-# Mystery
+# Mystery (Round 1, STRIPS)
 
 ## Domain Description
 

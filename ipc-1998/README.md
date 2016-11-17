@@ -12,12 +12,9 @@
 * [logistics](logistics-round-1-strips)
 * [movie](movie-round-1-strips)
 * [mprime](mprime-round-1-strips)
+* [mystery](mystery-round-1-strips)
 
 ### Round 2, STRIPS
-
-### Unsorted
-
-* [mystery](mystery)
 
 ## Source
 
