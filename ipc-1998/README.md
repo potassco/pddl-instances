@@ -9,6 +9,7 @@
 * [logistics](logistics-round-1-adl)
 * [movie](movie-round-1-adl)
 * [mprime](mprime-round-1-adl)
+* [mystery](mystery-round-1-adl)
 
 ### Round 1, STRIPS
 
