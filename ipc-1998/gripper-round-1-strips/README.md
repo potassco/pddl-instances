@@ -1,4 +1,4 @@
-# Gripper
+# Gripper (Round 1, STRIPS)
 
 ## Domain Description
 
