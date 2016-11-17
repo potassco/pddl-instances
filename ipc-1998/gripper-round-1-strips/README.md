@@ -11,10 +11,6 @@ Some planners treat the two grippers asymmetrically, giving rise to an unnecessa
 
 Jana Koehler
 
-## Source
-
-[IPC 1998 website](http://ipc98.icaps-conference.org/)
-
 ## Original File Names
 
 | file             | original name |

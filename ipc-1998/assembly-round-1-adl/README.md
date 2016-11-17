@@ -10,10 +10,6 @@ In addition, through poor engineering design, many subassemblies must be install
 
 Drew McDermott
 
-## Source
-
-[IPC 1998 website](http://ipc98.icaps-conference.org/)
-
 ## Additional Notes
 
 There are two slight different versions of the domain ([version 1][1], [version 2][2]).

@@ -9,10 +9,6 @@ Some planners have combinatorial problems in such cases.
 
 Corin Anderson
 
-## Source
-
-[IPC 1998 website](http://ipc98.icaps-conference.org/)
-
 ## Additional Notes
 
 There are two slight different versions of the domain ([version 1][1], [version 2][2]).

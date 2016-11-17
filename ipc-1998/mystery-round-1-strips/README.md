@@ -12,10 +12,6 @@ To disguise the domain, the nodes were called emotions, the cargo items were pai
 
 Drew McDermott
 
-## Source
-
-[IPC 1998 website](http://ipc98.icaps-conference.org/)
-
 ## Original File Names
 
 | file             | original name |

@@ -10,10 +10,6 @@ The goal is to get some packages from various locations to various new locations
 
 Bart Selman, Henry Kautz (based on an earlier domain by Manuela Veloso)
 
-## Source
-
-[IPC 1998 website](http://ipc98.icaps-conference.org/)
-
 ## Additional Notes
 
 The instances `instance-31.pddl` to `instance-35.pddl` are missing in the [original benchmark instance archive][1].
