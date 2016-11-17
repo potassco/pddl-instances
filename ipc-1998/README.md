@@ -6,6 +6,7 @@
 
 * [assembly](assembly-round-1-adl)
 * [gripper](gripper-round-1-adl)
+* [logistics](logistics-round-1-adl)
 
 ### Round 1, STRIPS
 
