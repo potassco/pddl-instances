@@ -1,4 +1,4 @@
-# Mprime
+# Mprime (Round 1, STRIPS)
 
 ## Domain Description
 
@@ -11,6 +11,14 @@ Drew McDermott
 ## Source
 
 [IPC 1998 website](http://ipc98.icaps-conference.org/)
+
+## Additional Notes
+
+There are two slight different versions of the domain ([version 1][1], [version 2][2]).
+As it is unclear which version is considered official, version 1 was selected because it contains an apparent bug fix.
+
+The instances `instance-31.pddl` to `instance-35.pddl` are missing in the [original benchmark instance archive][3].
+However, they are part of the [newer archive][4] and, thus, included here.
 
 ## Original File Names
 
@@ -52,3 +60,11 @@ Drew McDermott
 | instance-33.pddl | prob33.pddl   |
 | instance-34.pddl | prob34.pddl   |
 | instance-35.pddl | prob35.pddl   |
+
+
+
+
+[1]:domain.pddl
+[2]:additional-notes/domain-source-2.pddl
+[3]:http://ipc98.icaps-conference.org/aipscomp.tar.gz
+[4]:http://ipc98.icaps-conference.org/domains.zip
