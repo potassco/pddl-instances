@@ -5,6 +5,7 @@
 ### Round 1, ADL
 
 * [assembly](assembly-round-1-adl)
+* [gripper](gripper-round-1-adl)
 
 ### Round 1, STRIPS
 
