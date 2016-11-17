@@ -1,4 +1,4 @@
-# Assembly
+# Assembly (Round 1, ADL)
 
 ## Domain Description
 
@@ -13,6 +13,11 @@ Drew McDermott
 ## Source
 
 [IPC 1998 website](http://ipc98.icaps-conference.org/)
+
+## Additional Notes
+
+There are two slight different versions of the domain ([version 1][1], [version 2][2]).
+Version 1 was selected because it is closer to modern PDDL.
 
 ## Original File Names
 
@@ -49,3 +54,9 @@ Drew McDermott
 | instance-28.pddl | prob28.pddl   |
 | instance-29.pddl | prob29.pddl   |
 | instance-30.pddl | prob30.pddl   |
+
+
+
+
+[1]:http://ipc98.icaps-conference.org/domains.zip
+[2]:http://ipc98.icaps-conference.org/aipscomp.tar.gz

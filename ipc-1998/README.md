@@ -2,7 +2,16 @@
 
 ## Domains
 
-* [assembly](assembly)
+### Round 1, ADL
+
+* [assembly](assembly-round-1-adl)
+
+### Round 1, STRIPS
+
+### Round 2, STRIPS
+
+### Unsorted
+
 * [gripper](gripper)
 * [logistics](logistics)
 * [movie](movie)
