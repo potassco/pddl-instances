@@ -8,6 +8,7 @@
 
 * [depots](depots-strips-automatic)
 * [driverlog](driverlog-strips-automatic)
+* [freecell](freecell-strips-automatic)
 
 #### For Hand-Coded Planners
 
