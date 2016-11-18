@@ -7,6 +7,7 @@
 #### For Automatic Planners
 
 * [depots](depots-strips-automatic)
+* [driverlog](driverlog-strips-automatic)
 
 #### For Hand-Coded Planners
 
