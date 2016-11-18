@@ -11,6 +11,7 @@
 * [freecell](freecell-strips-automatic)
 * [rovers](rovers-strips-automatic)
 * [satellite](satellite-strips-automatic)
+* [zenotravel](zenotravel-strips-automatic)
 
 #### For Hand-Coded Planners
 
