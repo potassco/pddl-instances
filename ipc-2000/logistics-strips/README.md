@@ -1,4 +1,4 @@
-# Logistics
+# Logistics (STRIPS)
 
 ## Domain Description
 

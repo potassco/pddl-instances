@@ -1,4 +1,4 @@
-# Blocks
+# Blocks (STRIPS)
 
 ## Domain Description
 
