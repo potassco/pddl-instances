@@ -29,6 +29,7 @@
 * [depots](depots-numeric-automatic)
 * [driverlog](driverlog-numeric-automatic)
 * [rovers](rovers-numeric-automatic)
+* [settlers](settlers-numeric-automatic)
 
 #### For Hand-Coded Planners
 
