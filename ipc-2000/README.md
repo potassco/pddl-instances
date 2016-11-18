@@ -3,6 +3,7 @@
 ## Domains
 
 * [blocks](blocks)
+* [elevator (STRIPS)](elevator-strips)
 
 ## Sources
 
