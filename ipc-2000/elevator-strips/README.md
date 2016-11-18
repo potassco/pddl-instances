@@ -2,7 +2,9 @@
 
 ## Domain Description
 
-*not available*
+* Based on the Miconic-10 Elevator controller developed by Schindler Lifts Ltd.
+* Problems involve controlling a sophisticated elevator to move passengers to their destination.
+* Various constraints on movement, including priority passengers, passengers that must go non-stop, passengers that must be accompanied.
 
 ## Authors
 
