@@ -1,0 +1,167 @@
+# Elevator (ADL, Full)
+
+## Domain Description
+
+* Based on the Miconic-10 Elevator controller developed by Schindler Lifts Ltd.
+* Problems involve controlling a sophisticated elevator to move passengers to their destination.
+* Various constraints on movement, including priority passengers, passengers that must go non-stop, passengers that must be accompanied.
+
+## Authors
+
+Jana Koehler
+
+## Original File Names
+
+| file              | original name |
+|-------------------|---------------|
+| domain.pddl       | domain.pdd    |
+| instance-1.pddl   | f1-0.pddl     |
+| instance-2.pddl   | f1-1.pddl     |
+| instance-3.pddl   | f1-2.pddl     |
+| instance-4.pddl   | f1-3.pddl     |
+| instance-5.pddl   | f1-4.pddl     |
+| instance-6.pddl   | f2-0.pddl     |
+| instance-7.pddl   | f2-1.pddl     |
+| instance-8.pddl   | f2-2.pddl     |
+| instance-9.pddl   | f2-3.pddl     |
+| instance-10.pddl  | f2-4.pddl     |
+| instance-11.pddl  | f3-0.pddl     |
+| instance-12.pddl  | f3-1.pddl     |
+| instance-13.pddl  | f3-2.pddl     |
+| instance-14.pddl  | f3-3.pddl     |
+| instance-15.pddl  | f3-4.pddl     |
+| instance-16.pddl  | f4-0.pddl     |
+| instance-17.pddl  | f4-1.pddl     |
+| instance-18.pddl  | f4-2.pddl     |
+| instance-19.pddl  | f4-3.pddl     |
+| instance-20.pddl  | f4-4.pddl     |
+| instance-21.pddl  | f5-0.pddl     |
+| instance-22.pddl  | f5-1.pddl     |
+| instance-23.pddl  | f5-2.pddl     |
+| instance-24.pddl  | f5-3.pddl     |
+| instance-25.pddl  | f5-4.pddl     |
+| instance-26.pddl  | f6-0.pddl     |
+| instance-27.pddl  | f6-1.pddl     |
+| instance-28.pddl  | f6-2.pddl     |
+| instance-29.pddl  | f6-3.pddl     |
+| instance-30.pddl  | f6-4.pddl     |
+| instance-31.pddl  | f7-0.pddl     |
+| instance-32.pddl  | f7-1.pddl     |
+| instance-33.pddl  | f7-2.pddl     |
+| instance-34.pddl  | f7-3.pddl     |
+| instance-35.pddl  | f7-4.pddl     |
+| instance-36.pddl  | f8-0.pddl     |
+| instance-37.pddl  | f8-1.pddl     |
+| instance-38.pddl  | f8-2.pddl     |
+| instance-39.pddl  | f8-3.pddl     |
+| instance-40.pddl  | f8-4.pddl     |
+| instance-41.pddl  | f9-0.pddl     |
+| instance-42.pddl  | f9-1.pddl     |
+| instance-43.pddl  | f9-2.pddl     |
+| instance-44.pddl  | f9-3.pddl     |
+| instance-45.pddl  | f9-4.pddl     |
+| instance-46.pddl  | f10-0.pddl    |
+| instance-47.pddl  | f10-1.pddl    |
+| instance-48.pddl  | f10-2.pddl    |
+| instance-49.pddl  | f10-3.pddl    |
+| instance-50.pddl  | f10-4.pddl    |
+| instance-51.pddl  | f11-0.pddl    |
+| instance-52.pddl  | f11-1.pddl    |
+| instance-53.pddl  | f11-2.pddl    |
+| instance-54.pddl  | f11-3.pddl    |
+| instance-55.pddl  | f11-4.pddl    |
+| instance-56.pddl  | f12-0.pddl    |
+| instance-57.pddl  | f12-1.pddl    |
+| instance-58.pddl  | f12-2.pddl    |
+| instance-59.pddl  | f12-3.pddl    |
+| instance-60.pddl  | f12-4.pddl    |
+| instance-61.pddl  | f13-0.pddl    |
+| instance-62.pddl  | f13-1.pddl    |
+| instance-63.pddl  | f13-2.pddl    |
+| instance-64.pddl  | f13-3.pddl    |
+| instance-65.pddl  | f13-4.pddl    |
+| instance-66.pddl  | f14-0.pddl    |
+| instance-67.pddl  | f14-1.pddl    |
+| instance-68.pddl  | f14-2.pddl    |
+| instance-69.pddl  | f14-3.pddl    |
+| instance-70.pddl  | f14-4.pddl    |
+| instance-71.pddl  | f15-0.pddl    |
+| instance-72.pddl  | f15-1.pddl    |
+| instance-73.pddl  | f15-2.pddl    |
+| instance-74.pddl  | f15-3.pddl    |
+| instance-75.pddl  | f15-4.pddl    |
+| instance-76.pddl  | f16-0.pddl    |
+| instance-77.pddl  | f16-1.pddl    |
+| instance-78.pddl  | f16-2.pddl    |
+| instance-79.pddl  | f16-3.pddl    |
+| instance-80.pddl  | f16-4.pddl    |
+| instance-81.pddl  | f17-0.pddl    |
+| instance-82.pddl  | f17-1.pddl    |
+| instance-83.pddl  | f17-2.pddl    |
+| instance-84.pddl  | f17-3.pddl    |
+| instance-85.pddl  | f17-4.pddl    |
+| instance-86.pddl  | f18-0.pddl    |
+| instance-87.pddl  | f18-1.pddl    |
+| instance-88.pddl  | f18-2.pddl    |
+| instance-89.pddl  | f18-3.pddl    |
+| instance-90.pddl  | f18-4.pddl    |
+| instance-91.pddl  | f19-0.pddl    |
+| instance-92.pddl  | f19-1.pddl    |
+| instance-93.pddl  | f19-2.pddl    |
+| instance-94.pddl  | f19-3.pddl    |
+| instance-95.pddl  | f19-4.pddl    |
+| instance-96.pddl  | f20-0.pddl    |
+| instance-97.pddl  | f20-1.pddl    |
+| instance-98.pddl  | f20-2.pddl    |
+| instance-99.pddl  | f20-3.pddl    |
+| instance-100.pddl | f20-4.pddl    |
+| instance-101.pddl | f21-0.pddl    |
+| instance-102.pddl | f21-1.pddl    |
+| instance-103.pddl | f21-2.pddl    |
+| instance-104.pddl | f21-3.pddl    |
+| instance-105.pddl | f21-4.pddl    |
+| instance-106.pddl | f22-0.pddl    |
+| instance-107.pddl | f22-1.pddl    |
+| instance-108.pddl | f22-2.pddl    |
+| instance-109.pddl | f22-3.pddl    |
+| instance-110.pddl | f22-4.pddl    |
+| instance-111.pddl | f23-0.pddl    |
+| instance-112.pddl | f23-1.pddl    |
+| instance-113.pddl | f23-2.pddl    |
+| instance-114.pddl | f23-3.pddl    |
+| instance-115.pddl | f23-4.pddl    |
+| instance-116.pddl | f24-0.pddl    |
+| instance-117.pddl | f24-1.pddl    |
+| instance-118.pddl | f24-2.pddl    |
+| instance-119.pddl | f24-3.pddl    |
+| instance-120.pddl | f24-4.pddl    |
+| instance-121.pddl | f25-0.pddl    |
+| instance-122.pddl | f25-1.pddl    |
+| instance-123.pddl | f25-2.pddl    |
+| instance-124.pddl | f25-3.pddl    |
+| instance-125.pddl | f25-4.pddl    |
+| instance-126.pddl | f26-0.pddl    |
+| instance-127.pddl | f26-1.pddl    |
+| instance-128.pddl | f26-2.pddl    |
+| instance-129.pddl | f26-3.pddl    |
+| instance-130.pddl | f26-4.pddl    |
+| instance-131.pddl | f27-0.pddl    |
+| instance-132.pddl | f27-1.pddl    |
+| instance-133.pddl | f27-2.pddl    |
+| instance-134.pddl | f27-3.pddl    |
+| instance-135.pddl | f27-4.pddl    |
+| instance-136.pddl | f28-0.pddl    |
+| instance-137.pddl | f28-1.pddl    |
+| instance-138.pddl | f28-2.pddl    |
+| instance-139.pddl | f28-3.pddl    |
+| instance-140.pddl | f28-4.pddl    |
+| instance-141.pddl | f29-0.pddl    |
+| instance-142.pddl | f29-1.pddl    |
+| instance-143.pddl | f29-2.pddl    |
+| instance-144.pddl | f29-3.pddl    |
+| instance-145.pddl | f29-4.pddl    |
+| instance-146.pddl | f30-0.pddl    |
+| instance-147.pddl | f30-1.pddl    |
+| instance-148.pddl | f30-2.pddl    |
+| instance-149.pddl | f30-3.pddl    |
+| instance-150.pddl | f30-4.pddl    |
