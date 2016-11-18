@@ -30,6 +30,7 @@
 * [driverlog](driverlog-numeric-automatic)
 * [rovers](rovers-numeric-automatic)
 * [settlers](settlers-numeric-automatic)
+* [zenotravel](zenotravel-numeric-automatic)
 
 #### For Hand-Coded Planners
 
@@ -37,6 +38,7 @@
 * [driverlog](driverlog-numeric-hand-coded)
 * [rovers](rovers-numeric-hand-coded)
 * [umtranslog-2](umtranslog-2-numeric-hand-coded)
+* [zenotravel](zenotravel-numeric-hand-coded)
 
 ### Numeric (Hard)
 
@@ -57,6 +59,7 @@
 * [driverlog](driverlog-time-simple-automatic)
 * [rovers](rovers-time-simple-automatic)
 * [satellite](satellite-time-simple-automatic)
+* [zenotravel](zenotravel-time-simple-automatic)
 
 #### For Hand-Coded Planners
 
@@ -64,6 +67,7 @@
 * [driverlog](driverlog-time-simple-hand-coded)
 * [rovers](rovers-time-simple-hand-coded)
 * [satellite](satellite-time-simple-hand-coded)
+* [zenotravel](zenotravel-time-simple-hand-coded)
 
 ### Time
 
@@ -73,6 +77,7 @@
 * [driverlog](driverlog-time-automatic)
 * [rovers](rovers-time-automatic)
 * [satellite](satellite-time-automatic)
+* [zenotravel](zenotravel-time-hand-coded)
 
 #### For Hand-Coded Planners
 
@@ -80,6 +85,7 @@
 * [driverlog](driverlog-time-hand-coded)
 * [rovers](rovers-time-hand-coded)
 * [satellite](satellite-time-hand-coded)
+* [zenotravel](zenotravel-time-hand-coded)
 
 ### Complex
 
