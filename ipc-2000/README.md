@@ -2,10 +2,16 @@
 
 ## Domains
 
+* [blocks](blocks)
+
 ## Sources
 
 * [official website of the 2000 IPC][1]
 * [archive with benchmark instances][2]
+
+## Additional Notes
+
+In the case that a domain existed both with typing information and without, the version *without* typing information was omitted.
 
 ## Modifications
 
