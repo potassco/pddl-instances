@@ -17,6 +17,7 @@
 
 * [depots](depots-strips-hand-coded)
 * [driverlog](driverlog-strips-hand-coded)
+* [freecell](freecell-strips-hand-coded)
 
 ### Numeric
 
