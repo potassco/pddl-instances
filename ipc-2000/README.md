@@ -27,6 +27,8 @@ In the case that a domain existed both with typing information and without, the 
 The [slides with the results][3] mention another version of the *elevator* problem (with an additional constraint).
 However, these instances are apparently not contained in the official benchmark instance archive.
 
+The STRIPS version of the *schedule* problem was dropped from the competition due to an unspecified complication with the domain.
+
 ## Modifications
 
 * renamed problem domains and instances for consistency
