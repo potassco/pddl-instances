@@ -18,6 +18,7 @@
 * [depots](depots-strips-hand-coded)
 * [driverlog](driverlog-strips-hand-coded)
 * [freecell](freecell-strips-hand-coded)
+* [rovers](rovers-strips-hand-coded)
 
 ### Numeric
 
