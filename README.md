@@ -15,3 +15,4 @@ Problem instances are of the form `instance-x.pddl`, where `x` ≥ 1 (without le
 ## International Planning Competitions
 
 1. [IPC 1998](ipc-1998)
+2. [IPC 2000](ipc-2000)
