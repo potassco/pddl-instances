@@ -6,6 +6,8 @@
 
 #### For Automatic Planners
 
+* [depots](depots-strips-automatic)
+
 #### For Hand-Coded Planners
 
 ### Numeric
