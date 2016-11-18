@@ -10,6 +10,7 @@
 * [driverlog](driverlog-strips-automatic)
 * [freecell](freecell-strips-automatic)
 * [rovers](rovers-strips-automatic)
+* [satellite](satellite-strips-automatic)
 
 #### For Hand-Coded Planners
 
