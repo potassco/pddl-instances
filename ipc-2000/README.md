@@ -17,7 +17,7 @@
 
 * [official website of the 2000 IPC][1]
 * [archive with benchmark instances][2]
-* [presentation of results][3]
+* [presentation of the results][3]
 
 ## Additional Notes
 
