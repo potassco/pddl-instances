@@ -21,9 +21,3 @@ Jana Koehler (based on an earlier domain by Drew McDermott)
 | instance-3.pddl | prob03.pddl      |
 | instance-4.pddl | prob04.pddl      |
 | instance-5.pddl | prob05.pddl      |
-
-
-
-
-[1]:domain.pddl
-[2]:additional-notes/domain-source-2.pddl
