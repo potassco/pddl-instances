@@ -2,9 +2,14 @@
 
 ## Domains
 
+### STRIPS
+
 * [blocks](blocks)
-* [elevator (STRIPS)](elevator-strips)
-* [elevator (ADL, simple)](elevator-adl-simple)
+* [elevator](elevator-strips)
+
+### ADL
+
+* [elevator (simple)](elevator-adl-simple)
 
 ## Sources
 
