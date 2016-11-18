@@ -19,6 +19,7 @@
 * [driverlog](driverlog-strips-hand-coded)
 * [freecell](freecell-strips-hand-coded)
 * [rovers](rovers-strips-hand-coded)
+* [satellite](satellite-strips-hand-coded)
 
 ### Numeric
 
