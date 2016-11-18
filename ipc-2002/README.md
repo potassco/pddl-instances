@@ -36,6 +36,7 @@
 * [depots](depots-numeric-hand-coded)
 * [driverlog](driverlog-numeric-hand-coded)
 * [rovers](rovers-numeric-hand-coded)
+* [umtranslog-2](umtranslog-2-numeric-hand-coded)
 
 ### Numeric (Hard)
 
