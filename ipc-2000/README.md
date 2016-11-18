@@ -5,7 +5,7 @@
 ### STRIPS
 
 * [blocks](blocks-strips)
-* [elevator](elevator-strips)
+* [elevator (simple)](elevator-strips-simple)
 * [freecell](freecell-strips)
 * [logistics](logistics-strips)
 
