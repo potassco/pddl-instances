@@ -26,7 +26,11 @@
 
 #### For Automatic Planners
 
+* [depots](depots-numeric-automatic)
+
 #### For Hand-Coded Planners
+
+* [depots](depots-numeric-hand-coded)
 
 ### Numeric (Hard)
 
@@ -38,13 +42,21 @@
 
 #### For Automatic Planners
 
+* [depots](depots-time-simple-automatic)
+
 #### For Hand-Coded Planners
+
+* [depots](depots-time-simple-hand-coded)
 
 ### Time
 
 #### For Automatic Planners
 
+* [depots](depots-time-automatic)
+
 #### For Hand-Coded Planners
+
+* [depots](depots-time-hand-coded)
 
 ### Complex
 
