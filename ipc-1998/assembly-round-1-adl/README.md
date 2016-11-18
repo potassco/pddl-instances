@@ -15,6 +15,10 @@ Drew McDermott
 There are two slight different versions of the domain ([version 1][1], [version 2][2]).
 As it is unclear which version is considered official, version 1 was selected because it is closer to modern PDDL.
 
+Some instances have received bug fixes between the publication of the [original instance archive][4] and the [revised one][5] (this concerns instances 7, 12, 13, 14, 19, and 27).
+The corrected instances are included here.
+The original instances can be found in the [additional notes][3] directory for reference.
+
 ## Original File Names
 
 | file             | original name |
@@ -56,3 +60,6 @@ As it is unclear which version is considered official, version 1 was selected be
 
 [1]:domain.pddl
 [2]:additional-notes/domain-source-2.pddl
+[3]:additional-notes
+[4]:http://ipc98.icaps-conference.org/aipscomp.tar.gz
+[5]:http://ipc98.icaps-conference.org/domains.zip
