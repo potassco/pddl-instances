@@ -2,6 +2,42 @@
 
 ## Domains
 
+### STRIPS
+
+#### For Automatic Planners
+
+#### For Hand-Coded Planners
+
+### Numeric
+
+#### For Automatic Planners
+
+#### For Hand-Coded Planners
+
+### Numeric (Hard)
+
+#### For Automatic Planners
+
+#### For Hand-Coded Planners
+
+### Time (Simple)
+
+#### For Automatic Planners
+
+#### For Hand-Coded Planners
+
+### Time
+
+#### For Automatic Planners
+
+#### For Hand-Coded Planners
+
+### Complex
+
+#### For Automatic Planners
+
+#### For Hand-Coded Planners
+
 ## Sources
 
 * [official website of the 2000 IPC][1]
