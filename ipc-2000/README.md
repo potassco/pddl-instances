@@ -4,7 +4,7 @@
 
 ### STRIPS
 
-* [blocks](blocks)
+* [blocks](blocks-strips)
 * [elevator](elevator-strips)
 
 ### ADL
