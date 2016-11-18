@@ -20,6 +20,7 @@
 * [freecell](freecell-strips-hand-coded)
 * [rovers](rovers-strips-hand-coded)
 * [satellite](satellite-strips-hand-coded)
+* [zenotravel](zenotravel-strips-hand-coded)
 
 ### Numeric
 
