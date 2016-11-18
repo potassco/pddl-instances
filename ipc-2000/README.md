@@ -22,6 +22,9 @@
 
 In the case that a domain existed both with typing information and without, the version *without* typing information was omitted.
 
+The [slides with the results][3] mention another version of the *elevator* problem (with an additional constraint).
+However, these instances are apparently not contained in the official benchmark instance archive.
+
 ## Modifications
 
 * renamed problem domains and instances for consistency
