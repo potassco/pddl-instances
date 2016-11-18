@@ -2,7 +2,9 @@
 
 ## Domain Description
 
-*not available*
+* Stack a set of blocks.
+* A high degree of interaction between goals.
+* Easy for people, can be hard for automated planners.
 
 ## Authors
 
