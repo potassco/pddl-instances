@@ -28,11 +28,13 @@
 
 * [depots](depots-numeric-automatic)
 * [driverlog](driverlog-numeric-automatic)
+* [rovers](rovers-numeric-automatic)
 
 #### For Hand-Coded Planners
 
 * [depots](depots-numeric-hand-coded)
 * [driverlog](driverlog-numeric-hand-coded)
+* [rovers](rovers-numeric-hand-coded)
 
 ### Numeric (Hard)
 
@@ -50,11 +52,13 @@
 
 * [depots](depots-time-simple-automatic)
 * [driverlog](driverlog-time-simple-automatic)
+* [rovers](rovers-time-simple-automatic)
 
 #### For Hand-Coded Planners
 
 * [depots](depots-time-simple-hand-coded)
 * [driverlog](driverlog-time-simple-hand-coded)
+* [rovers](rovers-time-simple-hand-coded)
 
 ### Time
 
@@ -62,11 +66,13 @@
 
 * [depots](depots-time-automatic)
 * [driverlog](driverlog-time-automatic)
+* [rovers](rovers-time-automatic)
 
 #### For Hand-Coded Planners
 
 * [depots](depots-time-hand-coded)
 * [driverlog](driverlog-time-hand-coded)
+* [rovers](rovers-time-hand-coded)
 
 ### Complex
 
