@@ -6,6 +6,7 @@
 
 * [blocks](blocks-strips)
 * [elevator](elevator-strips)
+* [freecell](freecell-strips)
 
 ### ADL
 
