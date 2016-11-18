@@ -12,10 +12,6 @@ Trucks can behave like “tables,” since the pallets on which crates are stack
 
 *unknown*
 
-## Additional Notes
-
-The version of the *depots* problem without typing information was omitted.
-
 ## Original File Names
 
 | file             | original name |
