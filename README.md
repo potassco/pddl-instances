@@ -1,6 +1,6 @@
 # PDDL Benchmark Instances
 
-> PDDL instance collection covering the International Planning Competitions
+> PDDL instances covering the International Planning Competitions
 
 ## Overview
 
