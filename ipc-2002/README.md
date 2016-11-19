@@ -6,96 +6,96 @@
 
 #### For Automatic Planners
 
-* [depots](depots-strips-automatic)
-* [driverlog](driverlog-strips-automatic)
-* [freecell](freecell-strips-automatic)
-* [rovers](rovers-strips-automatic)
-* [satellite](satellite-strips-automatic)
-* [zenotravel](zenotravel-strips-automatic)
+* [depots](domains/depots-strips-automatic)
+* [driverlog](domains/driverlog-strips-automatic)
+* [freecell](domains/freecell-strips-automatic)
+* [rovers](domains/rovers-strips-automatic)
+* [satellite](domains/satellite-strips-automatic)
+* [zenotravel](domains/zenotravel-strips-automatic)
 
 #### For Hand-Coded Planners
 
-* [depots](depots-strips-hand-coded)
-* [driverlog](driverlog-strips-hand-coded)
-* [freecell](freecell-strips-hand-coded)
-* [rovers](rovers-strips-hand-coded)
-* [satellite](satellite-strips-hand-coded)
-* [zenotravel](zenotravel-strips-hand-coded)
+* [depots](domains/depots-strips-hand-coded)
+* [driverlog](domains/driverlog-strips-hand-coded)
+* [freecell](domains/freecell-strips-hand-coded)
+* [rovers](domains/rovers-strips-hand-coded)
+* [satellite](domains/satellite-strips-hand-coded)
+* [zenotravel](domains/zenotravel-strips-hand-coded)
 
 ### Numeric
 
 #### For Automatic Planners
 
-* [depots](depots-numeric-automatic)
-* [driverlog](driverlog-numeric-automatic)
-* [rovers](rovers-numeric-automatic)
-* [settlers](settlers-numeric-automatic)
-* [zenotravel](zenotravel-numeric-automatic)
+* [depots](domains/depots-numeric-automatic)
+* [driverlog](domains/driverlog-numeric-automatic)
+* [rovers](domains/rovers-numeric-automatic)
+* [settlers](domains/settlers-numeric-automatic)
+* [zenotravel](domains/zenotravel-numeric-automatic)
 
 #### For Hand-Coded Planners
 
-* [depots](depots-numeric-hand-coded)
-* [driverlog](driverlog-numeric-hand-coded)
-* [rovers](rovers-numeric-hand-coded)
-* [umtranslog-2](umtranslog-2-numeric-hand-coded)
-* [zenotravel](zenotravel-numeric-hand-coded)
+* [depots](domains/depots-numeric-hand-coded)
+* [driverlog](domains/driverlog-numeric-hand-coded)
+* [rovers](domains/rovers-numeric-hand-coded)
+* [umtranslog-2](domains/umtranslog-2-numeric-hand-coded)
+* [zenotravel](domains/zenotravel-numeric-hand-coded)
 
 ### Numeric (Hard)
 
 #### For Automatic Planners
 
-* [driverlog](driverlog-numeric-hard-automatic)
-* [satellite](satellite-numeric-hard-automatic)
+* [driverlog](domains/driverlog-numeric-hard-automatic)
+* [satellite](domains/satellite-numeric-hard-automatic)
 
 #### For Hand-Coded Planners
 
-* [driverlog](driverlog-numeric-hard-hand-coded)
+* [driverlog](domains/driverlog-numeric-hard-hand-coded)
 
 ### Time (Simple)
 
 #### For Automatic Planners
 
-* [depots](depots-time-simple-automatic)
-* [driverlog](driverlog-time-simple-automatic)
-* [rovers](rovers-time-simple-automatic)
-* [satellite](satellite-time-simple-automatic)
-* [zenotravel](zenotravel-time-simple-automatic)
+* [depots](domains/depots-time-simple-automatic)
+* [driverlog](domains/driverlog-time-simple-automatic)
+* [rovers](domains/rovers-time-simple-automatic)
+* [satellite](domains/satellite-time-simple-automatic)
+* [zenotravel](domains/zenotravel-time-simple-automatic)
 
 #### For Hand-Coded Planners
 
-* [depots](depots-time-simple-hand-coded)
-* [driverlog](driverlog-time-simple-hand-coded)
-* [rovers](rovers-time-simple-hand-coded)
-* [satellite](satellite-time-simple-hand-coded)
-* [zenotravel](zenotravel-time-simple-hand-coded)
+* [depots](domains/depots-time-simple-hand-coded)
+* [driverlog](domains/driverlog-time-simple-hand-coded)
+* [rovers](domains/rovers-time-simple-hand-coded)
+* [satellite](domains/satellite-time-simple-hand-coded)
+* [zenotravel](domains/zenotravel-time-simple-hand-coded)
 
 ### Time
 
 #### For Automatic Planners
 
-* [depots](depots-time-automatic)
-* [driverlog](driverlog-time-automatic)
-* [rovers](rovers-time-automatic)
-* [satellite](satellite-time-automatic)
-* [zenotravel](zenotravel-time-hand-coded)
+* [depots](domains/depots-time-automatic)
+* [driverlog](domains/driverlog-time-automatic)
+* [rovers](domains/rovers-time-automatic)
+* [satellite](domains/satellite-time-automatic)
+* [zenotravel](domains/zenotravel-time-hand-coded)
 
 #### For Hand-Coded Planners
 
-* [depots](depots-time-hand-coded)
-* [driverlog](driverlog-time-hand-coded)
-* [rovers](rovers-time-hand-coded)
-* [satellite](satellite-time-hand-coded)
-* [zenotravel](zenotravel-time-hand-coded)
+* [depots](domains/depots-time-hand-coded)
+* [driverlog](domains/driverlog-time-hand-coded)
+* [rovers](domains/rovers-time-hand-coded)
+* [satellite](domains/satellite-time-hand-coded)
+* [zenotravel](domains/zenotravel-time-hand-coded)
 
 ### Complex
 
 #### For Automatic Planners
 
-* [satellite](satellite-complex-automatic)
+* [satellite](domains/satellite-complex-automatic)
 
 #### For Hand-Coded Planners
 
-* [satellite](satellite-complex-hand-coded)
+* [satellite](domains/satellite-complex-hand-coded)
 
 ## Sources
 
