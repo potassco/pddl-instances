@@ -14,9 +14,11 @@
 | freecell | STRIPS |  | untyped |
 | [logistics](logistics-strips) | STRIPS |  | typed |
 | logistics | STRIPS |  | untyped |
-| ~~schedule~~ | STRIPS |  | untyped |
+| ~~schedule~~ | ~~STRIPS~~ |  | ~~untyped~~ |
 | [schedule](schedule-adl) | ADL |  | typed |
 | schedule | ADL |  | untyped |
+
+The STRIPS version of the *schedule* problem was dropped from the competition due to an unspecified complication with the domain.
 
 ## Sources
 
@@ -30,8 +32,6 @@ In the case that a domain existed both with typing information and without, the 
 
 The [slides with the results][3] mention another version of the *elevator* problem (with an additional constraint).
 However, these instances are apparently not contained in the official benchmark instance archive.
-
-The STRIPS version of the *schedule* problem was dropped from the competition due to an unspecified complication with the domain.
 
 ## Modifications
 
