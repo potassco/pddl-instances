@@ -2,30 +2,22 @@
 
 ## Domains
 
-### Round 1, ADL
-
-* [assembly](assembly-round-1-adl)
-* [gripper](gripper-round-1-adl)
-* [logistics](logistics-round-1-adl)
-* [movie](movie-round-1-adl)
-* [mprime](mprime-round-1-adl)
-* [mystery](mystery-round-1-adl)
-
-### Round 1, STRIPS
-
-* [gripper](gripper-round-1-strips)
-* [logistics](logistics-round-1-strips)
-* [movie](movie-round-1-strips)
-* [mprime](mprime-round-1-strips)
-* [mystery](mystery-round-1-strips)
-
-### Round 2, STRIPS
-
-* [grid](grid-round-2-strips)
-* [logistics](logistics-round-2-strips)
-* [mprime](mprime-round-2-strips)
-
-### Round 2, ADL
+| domain | round | format |
+|--------|-------|--------|
+| [assembly](assembly-round-1-adl) | 1 | ADL |
+| [grid](grid-round-2-strips) | 2 | STRIPS |
+| [gripper](gripper-round-1-adl) | 1 | ADL |
+| [gripper](gripper-round-1-strips) | 1 | STRIPS |
+| [logistics](logistics-round-1-adl) | 1 | ADL |
+| [logistics](logistics-round-1-strips) | 1 | STRIPS |
+| [logistics](logistics-round-2-strips) | 2 | STRIPS |
+| [movie](movie-round-1-adl) | 1 | ADL |
+| [movie](movie-round-1-strips) | 1 | STRIPS |
+| [mprime](mprime-round-1-adl) | 1 | ADL |
+| [mprime](mprime-round-1-strips) | 1 | STRIPS |
+| [mprime](mprime-round-2-strips) | 2 | STRIPS |
+| [mystery](mystery-round-1-adl) | 1 | ADL |
+| [mystery](mystery-round-1-strips) | 1 | STRIPS |
 
 There was no round 2 for the ADL format.
 
