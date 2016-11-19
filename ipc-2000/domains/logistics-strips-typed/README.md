@@ -12,11 +12,6 @@ Bart Selman, Henry Kautz (based on an earlier domain by Manuela Veloso)
 
 ## Additional Notes
 
-The domain description and instances were taken from track 1 with typing information.
-
-The version of the *logistics* problem without typing information was omitted.
-Track 2 of the *logistics* problem was omitted because the instances were identical to the ones in track 1.
-
 The instances starting from instance 33 were not officially part of the competition but provided additionally.
 
 ## Original File Names

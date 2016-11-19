@@ -9,10 +9,6 @@ With explicit control over the passengers that get in or out of the lift.
 
 Jana Koehler
 
-## Additional Notes
-
-The version of the *elevator* problem in STRIPS format without typing information was omitted.
-
 ## Original File Names
 
 | file              | original name |

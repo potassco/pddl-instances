@@ -9,10 +9,6 @@ Given a random configuration of cards across some columns, move all cards in a s
 
 Fahiem Bacchus
 
-## Additional Notes
-
-The version of the *freecell* problem in STRIPS format without typing information was omitted.
-
 ## Original File Names
 
 | file             | original name          |

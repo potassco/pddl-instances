@@ -5,18 +5,18 @@
 | domain | format | variant | typed |
 |--------|--------|---------|-------|
 | [blocks](domains/blocks-strips-typed) | STRIPS |  | typed |
-| blocks | STRIPS |  | untyped |
+| [blocks](domains/blocks-strips-untyped) | STRIPS |  | untyped |
 | [elevator](domains/elevator-strips-simple-typed) | STRIPS | simple | typed |
-| elevator | STRIPS | simple | untyped |
+| [elevator](domains/elevator-strips-simple-untyped) | STRIPS | simple | untyped |
 | [elevator](domains/elevator-adl-simple-typed) | ADL | simple | typed |
 | [elevator](domains/elevator-adl-full-typed) | ADL | full | typed |
 | [freecell](domains/freecell-strips-typed) | STRIPS |  | typed |
-| freecell | STRIPS |  | untyped |
+| [freecell](domains/freecell-strips-untyped) | STRIPS |  | untyped |
 | [logistics](domains/logistics-strips-typed) | STRIPS |  | typed |
-| logistics | STRIPS |  | untyped |
+| [logistics](domains/logistics-strips-untyped) | STRIPS |  | untyped |
 | ~~schedule~~ | ~~STRIPS~~ |  | ~~untyped~~ |
 | [schedule](domains/schedule-adl-typed) | ADL |  | typed |
-| schedule | ADL |  | untyped |
+| [schedule](domains/schedule-adl-untyped) | ADL |  | untyped |
 
 The STRIPS version of the *schedule* problem was dropped from the competition due to an unspecified complication with the domain.
 

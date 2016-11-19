@@ -13,8 +13,6 @@ Fahiem Bacchus (based on an earlier domain by Manuela Veloso)
 
 ## Additional Notes
 
-The version of the *schedule* problem without typing information was omitted.
-
 There exists an alternative version ([version 2][2]) of the domain ([version 1][1]), which uses a negated equality comparison.
 Version 1 was selected because it is more likely the officially used one due to its filename `domain.pddl`.
 
