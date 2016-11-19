@@ -28,7 +28,9 @@ The STRIPS version of the *schedule* problem was dropped from the competition du
 
 ## Additional Notes
 
-In the case that a domain existed both with typing information and without, the version *without* typing information was omitted.
+The readme of the [official benchmark archive][2] states that there were two tracks with distinct instances for the *blocks* and *logistics* problems.
+Apparently, the instances of track 2 are identical to the instances of track 1 (modulo syntax).
+For this reason, track 2 has been ignored in this repository.
 
 The [slides with the results][3] mention another version of the *elevator* problem (with an additional constraint).
 However, these instances are apparently not contained in the official benchmark instance archive.
