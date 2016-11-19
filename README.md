@@ -1,10 +1,12 @@
-# IPC Benchmark Instances
+# PDDL Benchmark Instances
 
-> PDDL benchmark instances of the International Planning Competitions
+> PDDL instance collection covering the International Planning Competitions
 
 ## Overview
 
-This repository contains the PDDL benchmark instances of the International Planning Competitions (IPC) in a consistent structure.
+This repository contains PDDL benchmark instances in a **consistent structure.**
+
+Currently, this repository covers the benchmark instances of the **International Planning Competitions** (IPC).
 
 ## Format
 
@@ -14,6 +16,8 @@ Problem instances reside in the `instances` subdirectory and are of the form `in
 
 ## International Planning Competitions
 
+The following International Planning Competitions are completely covered unless otherwise stated.
+
 1. [IPC 1998](ipc-1998)
 2. [IPC 2000](ipc-2000)
-3. [IPC 2002](ipc-2002)
+3. [IPC 2002](ipc-2002) (except untyped variants)
