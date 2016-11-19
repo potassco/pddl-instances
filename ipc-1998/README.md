@@ -4,20 +4,20 @@
 
 | domain | round | format |
 |--------|-------|--------|
-| [assembly](assembly-round-1-adl) | 1 | ADL |
-| [grid](grid-round-2-strips) | 2 | STRIPS |
-| [gripper](gripper-round-1-adl) | 1 | ADL |
-| [gripper](gripper-round-1-strips) | 1 | STRIPS |
-| [logistics](logistics-round-1-adl) | 1 | ADL |
-| [logistics](logistics-round-1-strips) | 1 | STRIPS |
-| [logistics](logistics-round-2-strips) | 2 | STRIPS |
-| [movie](movie-round-1-adl) | 1 | ADL |
-| [movie](movie-round-1-strips) | 1 | STRIPS |
-| [mprime](mprime-round-1-adl) | 1 | ADL |
-| [mprime](mprime-round-1-strips) | 1 | STRIPS |
-| [mprime](mprime-round-2-strips) | 2 | STRIPS |
-| [mystery](mystery-round-1-adl) | 1 | ADL |
-| [mystery](mystery-round-1-strips) | 1 | STRIPS |
+| [assembly](domains/assembly-round-1-adl) | 1 | ADL |
+| [grid](domains/grid-round-2-strips) | 2 | STRIPS |
+| [gripper](domains/gripper-round-1-adl) | 1 | ADL |
+| [gripper](domains/gripper-round-1-strips) | 1 | STRIPS |
+| [logistics](domains/logistics-round-1-adl) | 1 | ADL |
+| [logistics](domains/logistics-round-1-strips) | 1 | STRIPS |
+| [logistics](domains/logistics-round-2-strips) | 2 | STRIPS |
+| [movie](domains/movie-round-1-adl) | 1 | ADL |
+| [movie](domains/movie-round-1-strips) | 1 | STRIPS |
+| [mprime](domains/mprime-round-1-adl) | 1 | ADL |
+| [mprime](domains/mprime-round-1-strips) | 1 | STRIPS |
+| [mprime](domains/mprime-round-2-strips) | 2 | STRIPS |
+| [mystery](domains/mystery-round-1-adl) | 1 | ADL |
+| [mystery](domains/mystery-round-1-strips) | 1 | STRIPS |
 
 There was no round 2 for the ADL format.
 

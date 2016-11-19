@@ -1,20 +1,19 @@
-# Mprime (Round 1, STRIPS)
+# Logistics (Round 1, STRIPS)
 
 ## Domain Description
 
-This is the mystery domain with one extra action, the ability to squirt a unit of fuel from any node to a neighboring node, provided the originating node has at least two units.
+There are several cities, each containing several locations, some of which are airports.
+There are also trucks, which can drive within a single city, and airplanes, which can fly between airports.
+The goal is to get some packages from various locations to various new locations.
 
 ## Authors
 
-Drew McDermott
+Bart Selman, Henry Kautz (based on an earlier domain by Manuela Veloso)
 
 ## Additional Notes
 
-There are two slight different versions of the domain ([version 1][1], [version 2][2]).
-As it is unclear which version is considered official, version 1 was selected because it contains an apparent bug fix.
-
-The instances `instance-31.pddl` to `instance-35.pddl` are missing in the [original benchmark instance archive][3].
-However, they are part of the [newer archive][4] and, thus, included here.
+The instances 31 to 35 are missing in the [original benchmark instance archive][1].
+However, they are part of the [newer archive][2] and, thus, included here.
 
 ## Original File Names
 
@@ -60,7 +59,5 @@ However, they are part of the [newer archive][4] and, thus, included here.
 
 
 
-[1]:domain.pddl
-[2]:additional-notes/domain-source-2.pddl
-[3]:http://ipc98.icaps-conference.org/aipscomp.tar.gz
-[4]:http://ipc98.icaps-conference.org/domains.zip
+[1]:http://ipc98.icaps-conference.org/aipscomp.tar.gz
+[2]:http://ipc98.icaps-conference.org/domains.zip
