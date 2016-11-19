@@ -2,11 +2,14 @@
 
 ## Domain Description
 
-An ADL domain with many actions requiring conditional effects.
+A simple scheduling kind of problem where a number of objects need to be processed using a collection of machines.
+Possible actions are polishing, punching holes, painting etc.
+All actions need uniform time, which is modelled by a do-time-step operator.
+If that operator is applied, then all busy machines are no longer busy, and all scheduled objects are no longer scheduled—this is also an example of the kind of conditional effects that are used in the representation.
 
 ## Authors
 
-*unknown*
+Fahiem Bacchus (based on an earlier domain by Manuela Veloso)
 
 ## Additional Notes
 

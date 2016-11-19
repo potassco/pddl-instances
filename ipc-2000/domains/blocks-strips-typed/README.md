@@ -2,13 +2,13 @@
 
 ## Domain Description
 
-* Stack a set of blocks.
-* A high degree of interaction between goals.
-* Easy for people, can be hard for automated planners.
+Classical untyped STRIPS domain, where stackable blocks need to be re-assembled on a table with unlimited space.
+Uses a robot arm that can be used for stacking a block onto a block, unstacking a block from a block, putting down a block, or picking up a block.
+The initial state specifies a complete state, the goal state specifies only the on relations required between any two blocks.
 
 ## Authors
 
-*unknown*
+IPP domain collection
 
 ## Additional Notes
 

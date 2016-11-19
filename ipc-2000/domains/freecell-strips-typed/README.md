@@ -2,11 +2,12 @@
 
 ## Domain Description
 
-Freecell is a solitaire card game that comes with Microsoft Windows.
+A card game (similar to Solitaire) that comes free with Microsoft Windows.
+Given a random configuration of cards across some columns, move all cards in a specified order onto some goal stacks, obeying a number of stacking rules, and using a number of freecells as a resource.
 
 ## Authors
 
-*unknown*
+Fahiem Bacchus
 
 ## Additional Notes
 

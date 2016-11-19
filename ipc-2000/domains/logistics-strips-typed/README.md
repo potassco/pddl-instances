@@ -2,12 +2,13 @@
 
 ## Domain Description
 
-* Move a set of packages between locations using trucks within the same city and airplanes between cities.
-* Limited interaction between goals.
+Transport packages within cities via trucks, and between cities via airplanes.
+Locations within a city are directly connected (trucks can move between any two such locations), and so are the cities.
+In each city there is exactly one truck, each city has one location that serves as an airport.
 
 ## Authors
 
-*unknown*
+Bart Selman, Henry Kautz (based on an earlier domain by Manuela Veloso)
 
 ## Additional Notes
 
