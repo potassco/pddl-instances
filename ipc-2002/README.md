@@ -36,6 +36,8 @@ In this competition, instances were generated once for *automatic* and once for 
 | [rovers](domains/rovers-time-hand-coded) | time | hand-coded |
 | [satellite](domains/satellite-strips-automatic) | STRIPS | automatic |
 | [satellite](domains/satellite-strips-hand-coded) | STRIPS | hand-coded |
+| [satellite](domains/satellite-numeric-automatic) | numeric | automatic |
+| [satellite](domains/satellite-numeric-hand-coded) | numeric | hand-coded |
 | [satellite](domains/satellite-numeric-hard-automatic) | numeric (hard) | automatic |
 | [satellite](domains/satellite-time-simple-automatic) | time (simple) | automatic |
 | [satellite](domains/satellite-time-simple-hand-coded) | time (simple) | hand-coded |
