@@ -1,4 +1,4 @@
-# FreeCell (STRIPS)
+# FreeCell (STRIPS, Typed)
 
 ## Domain Description
 

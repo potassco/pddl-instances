@@ -1,4 +1,4 @@
-# Schedule (ADL)
+# Schedule (ADL, Typed)
 
 ## Domain Description
 

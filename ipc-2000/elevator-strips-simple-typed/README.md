@@ -1,4 +1,4 @@
-# Elevator (STRIPS, Simple)
+# Elevator (STRIPS, Simple, Typed)
 
 ## Domain Description
 

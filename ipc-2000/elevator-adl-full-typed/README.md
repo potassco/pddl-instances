@@ -1,4 +1,4 @@
-# Elevator (ADL, Full)
+# Elevator (ADL, Full, Typed)
 
 ## Domain Description
 
