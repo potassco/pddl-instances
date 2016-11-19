@@ -2,6 +2,8 @@
 
 ## Domains
 
+In this competition, instances were generated once for *automatic* and once for *hand-coded* planners.
+
 | domain | variant | target |
 |--------|---------|--------|
 | [depots](domains/depots-strips-automatic) | STRIPS | automatic |
