@@ -25,7 +25,6 @@ In this competition, instances were generated once for *automatic* and once for 
 | [driverlog](domains/driverlog-time-automatic) | time | automatic |
 | [driverlog](domains/driverlog-time-hand-coded) | time | hand-coded |
 | [freecell](domains/freecell-strips-automatic) | STRIPS | automatic |
-| [freecell](domains/freecell-strips-hand-coded) | STRIPS | hand-coded |
 | [rovers](domains/rovers-strips-automatic) | STRIPS | automatic |
 | [rovers](domains/rovers-strips-hand-coded) | STRIPS | hand-coded |
 | [rovers](domains/rovers-numeric-automatic) | numeric | automatic |
