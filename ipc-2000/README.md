@@ -2,18 +2,21 @@
 
 ## Domains
 
-### STRIPS
-
-* [blocks](blocks-strips)
-* [elevator (simple)](elevator-strips-simple)
-* [freecell](freecell-strips)
-* [logistics](logistics-strips)
-
-### ADL
-
-* [elevator (simple)](elevator-adl-simple)
-* [elevator (full)](elevator-adl-full)
-* [schedule](schedule-adl)
+| domain | format | variant | typed |
+|--------|--------|---------|-------|
+| [blocks](blocks-strips) | STRIPS |  | typed |
+| blocks | STRIPS |  | untyped |
+| [elevator](elevator-strips-simple) | STRIPS | simple | typed |
+| elevator | STRIPS | simple | untyped |
+| [elevator](elevator-adl-simple) | ADL | simple | typed |
+| [elevator](elevator-adl-full) | ADL | full | typed |
+| [freecell](freecell-strips) | STRIPS |  | typed |
+| freecell | STRIPS |  | untyped |
+| [logistics](logistics-strips) | STRIPS |  | typed |
+| logistics | STRIPS |  | untyped |
+| ~~schedule~~ | STRIPS |  | untyped |
+| [schedule](schedule-adl) | ADL |  | typed |
+| schedule | ADL |  | untyped |
 
 ## Sources
 
