@@ -13,11 +13,11 @@
 | [logistics](domains/logistics-round-2-strips) | 2 | STRIPS |
 | [movie](domains/movie-round-1-adl) | 1 | ADL |
 | [movie](domains/movie-round-1-strips) | 1 | STRIPS |
-| [mprime](domains/mprime-round-1-adl) | 1 | ADL |
-| [mprime](domains/mprime-round-1-strips) | 1 | STRIPS |
-| [mprime](domains/mprime-round-2-strips) | 2 | STRIPS |
 | [mystery](domains/mystery-round-1-adl) | 1 | ADL |
 | [mystery](domains/mystery-round-1-strips) | 1 | STRIPS |
+| [mystery-prime](domains/mystery-prime-round-1-adl) | 1 | ADL |
+| [mystery-prime](domains/mystery-prime-round-1-strips) | 1 | STRIPS |
+| [mystery-prime](domains/mystery-prime-round-2-strips) | 2 | STRIPS |
 
 There was no round 2 for the ADL format.
 

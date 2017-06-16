@@ -1,4 +1,4 @@
-# Mprime (Round 1, ADL)
+# Mystery Prime (Round 1, ADL)
 
 ## Domain Description
 

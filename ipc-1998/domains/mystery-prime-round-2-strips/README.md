@@ -1,4 +1,4 @@
-# Mprime (Round 2, STRIPS)
+# Mystery Prime (Round 2, STRIPS)
 
 ## Domain Description
 
