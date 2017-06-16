@@ -18,7 +18,7 @@
 | [schedule](domains/schedule-adl-typed) | ADL |  | typed |
 | [schedule](domains/schedule-adl-untyped) | ADL |  | untyped |
 
-The STRIPS version of the *schedule* problem was dropped from the competition due to an unspecified complication with the domain.
+The STRIPS version of the *schedule* problem was dropped from the competition due to an unspecified complication with the domain (source: [official benchmark archive][2], file `AIPS-2000DataFiles/2000-Tests/Schedule/README`).
 
 ## Sources
 
