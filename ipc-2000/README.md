@@ -2,7 +2,7 @@
 
 ## Domains
 
-| domain | format | variant | typed |
+| domain | format | variant | typing |
 |--------|--------|---------|-------|
 | [blocks](domains/blocks-strips-typed) | STRIPS |  | typed |
 | [blocks](domains/blocks-strips-untyped) | STRIPS |  | untyped |
