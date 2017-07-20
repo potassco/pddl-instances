@@ -57,7 +57,7 @@ In this competition, instances were generated once for *automatic* and once for 
 
 ## Sources
 
-* [official website of the 2000 IPC][1]
+* [official website of the 2002 IPC][1]
 * [archive with benchmark instances][2]
 
 ## Additional Notes
