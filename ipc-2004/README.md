@@ -20,19 +20,15 @@
 | [pipesworld](domains/pipesworld-no-tankage-temporal-deadlines-compiled-strips) | no tankage, temporal, deadlines, compiled | STRIPS |
 | [promela: dining philosophers](domains/promela-dining-philosophers-strips) | plain | STRIPS |
 | [promela: dining philosophers](domains/promela-dining-philosophers-adl) | plain | ADL |
-| [promela: dining philosophers](domains/promela-dining-philosophers-fluents-strips) | fluents | STRIPS |
 | [promela: dining philosophers](domains/promela-dining-philosophers-fluents-adl) | fluents | ADL |
 | [promela: dining philosophers](domains/promela-dining-philosophers-derived-predicates-strips) | derived predicates | STRIPS |
 | [promela: dining philosophers](domains/promela-dining-philosophers-derived-predicates-adl) | derived predicates | ADL |
-| [promela: dining philosophers](domains/promela-dining-philosophers-fluents-derived-predicates-strips) | fluents, derived predicates | STRIPS |
 | [promela: dining philosophers](domains/promela-dining-philosophers-fluents-derived-predicates-adl) | fluents, derived predicates | ADL |
 | [promela: optical telegraph](domains/promela-optical-telegraph-strips) | plain | STRIPS |
 | [promela: optical telegraph](domains/promela-optical-telegraph-adl) | plain | ADL |
-| [promela: optical telegraph](domains/promela-optical-telegraph-fluents-strips) | fluents | STRIPS |
 | [promela: optical telegraph](domains/promela-optical-telegraph-fluents-adl) | fluents | ADL |
 | [promela: optical telegraph](domains/promela-optical-telegraph-derived-predicates-strips) | derived predicates | STRIPS |
 | [promela: optical telegraph](domains/promela-optical-telegraph-derived-predicates-adl) | derived predicates | ADL |
-| [promela: optical telegraph](domains/promela-optical-telegraph-fluents-derived-predicates-strips) | fluents, derived predicates | STRIPS |
 | [promela: optical telegraph](domains/promela-optical-telegraph-fluents-derived-predicates-adl) | fluents, derived predicates | ADL |
 | [PSR](domains/psr-large-derived-predicates-adl) | large | ADL, derived predicates |
 | [PSR](domains/psr-middle-derived-predicates-strips) | middle | STRIPS, derived predicates |
