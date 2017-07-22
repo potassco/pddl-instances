@@ -1,4 +1,4 @@
-# Promela: Optical Telegraph (Derived Predicates, ADL)
+# Promela: Optical Telegraph (Derived Predicates, STRIPS)
 
 ## Domain Description
 
