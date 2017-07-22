@@ -1,4 +1,4 @@
-# Airport (Temporal, Timed Literals, ADL)
+# Airport (Temporal, Time Windows, ADL)
 
 ## Domain Description
 
