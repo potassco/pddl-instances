@@ -57,12 +57,6 @@
 * [official website of the 2004 IPC][1]
 * [archive with benchmark instances][2]
 
-## Additional Notes
-
-Currently, STRIPS versions of domains are omitted in case there is a corresponding ADL version.
-
-This repository does not contain all compiled instances yet.
-
 ## Modifications
 
 * renamed problem domains and instances for consistency
