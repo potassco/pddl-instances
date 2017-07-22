@@ -70,5 +70,5 @@ This repository does not contain all compiled instances yet.
 
 
 
-[1]:http://idm-lab.org/wiki/icaps/ipc2004/
-[2]:http://idm-lab.org/wiki/icaps/ipc2004/deterministic/domains.tgz
+[1]:http://ipc04.icaps-conference.org/
+[2]:http://ipc04.icaps-conference.org/deterministic/domains.tgz
