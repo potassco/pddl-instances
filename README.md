@@ -11,8 +11,11 @@ Currently, this repository covers the benchmark instances of the **International
 ## Format
 
 For each IPC domain, there is a top-level readme containing an informal description of the domain.
-The PDDL domain description is in the respective  `domain.pddl` file.
+
 Problem instances reside in the `instances` subdirectory and are of the form `instance-x.pddl`, where `x` ≥ 1 (without leading zeros).
+
+With most domains, there is only one domain description for all instances, `domain.pddl`.
+In some cases, a proper domain is provided for each instance, in which case the domain descriptions are stored in a `domains` subdirectory.
 
 ## International Planning Competitions
 
