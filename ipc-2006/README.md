@@ -12,6 +12,11 @@
 | [openstacks](domains/openstacks-time-metric-strips) | time (metric) | STRIPS |
 | [openstacks](domains/openstacks-preferences-simple) | preferences (simple) | PDDL |
 | [openstacks](domains/openstacks-preferences-qualitative) | preferences (qualitative) | PDDL |
+| [pathways](domains/pathways-propositional) | propositional | PDDL |
+| [pathways](domains/pathways-propositional-strips) | propositional | STRIPS |
+| [pathways](domains/pathways-time-metric) | time (metric) | PDDL |
+| [pathways](domains/pathways-preferences-simple) | preferences (simple) | PDDL |
+| [pathways](domains/pathways-preferences-complex) | preferences (complex) | PDDL |
 
 ## Sources
 
