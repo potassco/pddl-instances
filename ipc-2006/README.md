@@ -27,6 +27,13 @@
 | [rovers](domains/rovers-metric-time) | metric, time | PDDL |
 | [rovers](domains/rovers-metric-preferences-simple) | metric, preferences (simple) | PDDL |
 | [rovers](domains/rovers-preferences-qualitative) | preferences (qualitative) | PDDL |
+| [storage](domains/storage-propositional) | propositional | PDDL |
+| [storage](domains/storage-time) | time | PDDL |
+| [storage](domains/storage-time-constraints) | time, constraints | PDDL |
+| [storage](domains/storage-preferences-simple) | preferences (simple) | PDDL |
+| [storage](domains/storage-preferences-simple-grounded-preferences) | preferences (simple) | PDDL (grounded preferences) |
+| [storage](domains/storage-preferences-qualitative) | preferences (qualitative) | PDDL |
+| [storage](domains/storage-preferences-complex) | preferences (complex) | PDDL |
 
 ## Sources
 
