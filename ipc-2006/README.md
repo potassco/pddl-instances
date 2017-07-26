@@ -22,6 +22,11 @@
 | [pipesworld](domains/pipesworld-time-metric) | time (metric) | PDDL |
 | [pipesworld](domains/pipesworld-time-metric-constraints) | time (metric), constraints | PDDL |
 | [pipesworld](domains/pipesworld-preferences-complex) | preferences (complex) | PDDL |
+| [rovers](domains/rovers-propositional) | propositional | PDDL |
+| [rovers](domains/rovers-propositional-strips) | propositional | STRIPS |
+| [rovers](domains/rovers-metric-time) | metric, time | PDDL |
+| [rovers](domains/rovers-metric-preferences-simple) | metric, preferences (simple) | PDDL |
+| [rovers](domains/rovers-preferences-qualitative) | preferences (qualitative) | PDDL |
 
 ## Sources
 
