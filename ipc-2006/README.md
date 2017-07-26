@@ -40,6 +40,10 @@
 * [official website of the 2006 IPC][1]
 * [archive with benchmark instances][2]
 
+## Additional Notes
+
+In some cases, semantically identical, **grounded versions** of the domain descriptions were provided.
+
 ## Modifications
 
 * renamed problem domains and instances for consistency
