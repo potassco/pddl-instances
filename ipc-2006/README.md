@@ -4,6 +4,14 @@
 
 | domain | version | formulation |
 |--------|---------|--------|
+| [openstacks](domains/openstacks-propositional) | propositional | PDDL |
+| [openstacks](domains/openstacks-propositional-strips) | propositional | STRIPS |
+| [openstacks](domains/openstacks-time) | time | PDDL |
+| [openstacks](domains/openstacks-time-strips) | time | STRIPS |
+| [openstacks](domains/openstacks-time-metric) | time (metric) | PDDL |
+| [openstacks](domains/openstacks-time-metric-strips) | time (metric) | STRIPS |
+| [openstacks](domains/openstacks-preferences-simple) | preferences (simple) | PDDL |
+| [openstacks](domains/openstacks-preferences-qualitative) | preferences (qualitative) | PDDL |
 
 ## Sources
 
