@@ -34,6 +34,15 @@
 | [storage](domains/storage-preferences-simple-grounded-preferences) | preferences (simple) | PDDL (grounded preferences) |
 | [storage](domains/storage-preferences-qualitative) | preferences (qualitative) | PDDL |
 | [storage](domains/storage-preferences-complex) | preferences (complex) | PDDL |
+| [TPP](domains/tpp-propositional) | propositional | PDDL |
+| [TPP](domains/tpp-propositional-strips) | propositional | STRIPS |
+| [TPP](domains/tpp-metric) | metric | PDDL |
+| [TPP](domains/tpp-metric-time) | metric, time | PDDL |
+| [TPP](domains/tpp-metric-time-constraints) | metric, time, constraints | PDDL |
+| [TPP](domains/tpp-preferences-simple) | preferences (simple) | PDDL |
+| [TPP](domains/tpp-preferences-simple-grounded-preferences) | preferences (simple) | PDDL (grounded preferences) |
+| [TPP](domains/tpp-preferences-qualitative) | preferences (qualitative) | PDDL |
+| [TPP](domains/tpp-preferences-complex) | preferences (complex) | PDDL |
 
 ## Sources
 
