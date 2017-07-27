@@ -26,4 +26,4 @@ The following International Planning Competitions are completely covered unless 
 1. [IPC 2002](ipc-2002) (8 domains, 48 variants), *without untyped variants*
 1. [IPC 2004](ipc-2004) (8 domains, 47 variants), *deterministic track*
 1. [IPC 2006](ipc-2006) (7 domains, 50 variants), *deterministic track*
-1. [IPC 2008](ipc-2008), *deterministic track*
+1. [IPC 2008](ipc-2008) (11 domains, 41 variants), *deterministic track*
