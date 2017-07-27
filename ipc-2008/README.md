@@ -28,6 +28,10 @@
 | [PARC printer](domains/parc-printer-sequential-optimization-strips) | sequential, optimization | STRIPS |
 | [PARC printer](domains/parc-printer-sequential-satisficing-strips) | sequential, satisficing | STRIPS |
 | [PARC printer](domains/parc-printer-temporal-satisficing-strips) | temporal, satisficing | STRIPS |
+| [peg solitaire](domains/peg-solitaire-net-benefit-optimization-strips) | net benefit, optimization | STRIPS |
+| [peg solitaire](domains/peg-solitaire-sequential-optimization-strips) | sequential, optimization | STRIPS |
+| [peg solitaire](domains/peg-solitaire-sequential-satisficing-strips) | sequential, satisficing | STRIPS |
+| [peg solitaire](domains/peg-solitaire-temporal-satisficing-strips) | temporal, satisficing | STRIPS |
 
 ## Sources
 
