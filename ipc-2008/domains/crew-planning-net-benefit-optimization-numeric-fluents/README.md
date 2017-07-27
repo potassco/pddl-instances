@@ -1,4 +1,4 @@
-# Crew Planning (Net Benefit, Numeric Fluents)
+# Crew Planning (Net Benefit, Optimization, Numeric Fluents)
 
 ## Domain Description
 

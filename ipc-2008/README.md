@@ -4,7 +4,7 @@
 
 | domain | track | formulation |
 |--------|-------|-------------|
-| [crew planning](domains/crew-planning-net-benefit-numeric-fluents) | net benefit | numeric fluents |
+| [crew planning](domains/crew-planning-net-benefit-optimization-numeric-fluents) | net benefit, optimization | numeric fluents |
 | [crew planning](domains/crew-planning-temporal-satisficing-strips) | temporal, satisficing | STRIPS |
 | [cyber security](domains/cyber-security-sequential-satisficing-strips) | sequential, satisficing | STRIPS |
 
