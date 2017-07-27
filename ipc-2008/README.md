@@ -13,6 +13,7 @@
 | [elevator](domains/elevator-sequential-satisficing-strips) | sequential, satisficing | STRIPS |
 | [elevator](domains/elevator-temporal-satisficing-numeric-fluents) | temporal, satisficing | numeric fluents |
 | [elevator](domains/elevator-temporal-satisficing-strips) | temporal, satisficing | STRIPS |
+| [model train](domains/model-train-temporal-satisficing-numeric-fluents) | temporal, satisficing | numeric fluents |
 
 ## Sources
 
