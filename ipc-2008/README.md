@@ -25,6 +25,9 @@
 | [openstacks](domains/openstacks-temporal-satisficing-adl-numeric-fluents) | temporal, satisficing | ADL, numeric fluents |
 | [openstacks](domains/openstacks-temporal-satisficing-numeric-fluents) | temporal, satisficing | numeric fluents |
 | [openstacks](domains/openstacks-temporal-satisficing-strips) | temporal, satisficing | STRIPS |
+| [PARC printer](domains/parc-printer-sequential-optimization-strips) | sequential, optimization | STRIPS |
+| [PARC printer](domains/parc-printer-sequential-satisficing-strips) | sequential, satisficing | STRIPS |
+| [PARC printer](domains/parc-printer-temporal-satisficing-strips) | temporal, satisficing | STRIPS |
 
 ## Sources
 
