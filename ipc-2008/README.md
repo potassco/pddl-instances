@@ -37,6 +37,10 @@
 | [Sokoban](domains/sokoban-sequential-optimization-strips) | sequential, optimization | STRIPS |
 | [Sokoban](domains/sokoban-sequential-satisficing-strips) | sequential, satisficing | STRIPS |
 | [Sokoban](domains/sokoban-temporal-satisficing-strips) | temporal, satisficing | STRIPS |
+| [transport](domains/transport-net-benefit-optimization-numeric-fluents) | net benefit, optimization | numeric fluents |
+| [transport](domains/transport-sequential-optimization-strips) | sequential, optimization | STRIPS |
+| [transport](domains/transport-sequential-satisficing-strips) | sequential, satisficing | STRIPS |
+| [transport](domains/transport-temporal-satisficing-numeric-fluents) | temporal, satisficing | numeric fluents |
 
 ## Sources
 
