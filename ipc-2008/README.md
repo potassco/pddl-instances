@@ -7,6 +7,12 @@
 | [crew planning](domains/crew-planning-net-benefit-optimization-numeric-fluents) | net benefit, optimization | numeric fluents |
 | [crew planning](domains/crew-planning-temporal-satisficing-strips) | temporal, satisficing | STRIPS |
 | [cyber security](domains/cyber-security-sequential-satisficing-strips) | sequential, satisficing | STRIPS |
+| [elevator](domains/elevator-net-benefit-optimization-numeric-fluents) | net benefit, optimization | numeric fluents |
+| [elevator](domains/elevator-net-benefit-optimization-strips) | net benefit, optimization | STRIPS |
+| [elevator](domains/elevator-sequential-optimization-strips) | sequential, optimization | STRIPS |
+| [elevator](domains/elevator-sequential-satisficing-strips) | sequential, satisficing | STRIPS |
+| [elevator](domains/elevator-temporal-satisficing-numeric-fluents) | temporal, satisficing | numeric fluents |
+| [elevator](domains/elevator-temporal-satisficing-strips) | temporal, satisficing | STRIPS |
 
 ## Sources
 
