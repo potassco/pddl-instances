@@ -14,6 +14,17 @@
 | [elevator](domains/elevator-temporal-satisficing-numeric-fluents) | temporal, satisficing | numeric fluents |
 | [elevator](domains/elevator-temporal-satisficing-strips) | temporal, satisficing | STRIPS |
 | [model train](domains/model-train-temporal-satisficing-numeric-fluents) | temporal, satisficing | numeric fluents |
+| [openstacks](domains/openstacks-net-benefit-optimization-adl-numeric-fluents) | net benefit, optimization | ADL, numeric fluents |
+| [openstacks](domains/openstacks-net-benefit-optimization-adl) | net benefit, optimization | ADL |
+| [openstacks](domains/openstacks-net-benefit-optimization-strips-negative-preconditions) | net benefit, optimization | STRIPS, negative preconditions |
+| [openstacks](domains/openstacks-sequential-optimization-adl) | sequential, optimization | ADL |
+| [openstacks](domains/openstacks-sequential-optimization-strips) | sequential, optimization | STRIPS |
+| [openstacks](domains/openstacks-sequential-satisficing-adl) | sequential, satisficing | ADL |
+| [openstacks](domains/openstacks-sequential-satisficing-strips) | sequential, satisficing | STRIPS |
+| [openstacks](domains/openstacks-temporal-satisficing-adl) | temporal, satisficing | ADL |
+| [openstacks](domains/openstacks-temporal-satisficing-adl-numeric-fluents) | temporal, satisficing | ADL, numeric fluents |
+| [openstacks](domains/openstacks-temporal-satisficing-numeric-fluents) | temporal, satisficing | numeric fluents |
+| [openstacks](domains/openstacks-temporal-satisficing-strips) | temporal, satisficing | STRIPS |
 
 ## Sources
 
