@@ -8,19 +8,19 @@
 | [openstacks](domains/openstacks-propositional-strips) | propositional | STRIPS |
 | [openstacks](domains/openstacks-time) | time | PDDL |
 | [openstacks](domains/openstacks-time-strips) | time | STRIPS |
-| [openstacks](domains/openstacks-time-metric) | time (metric) | PDDL |
-| [openstacks](domains/openstacks-time-metric-strips) | time (metric) | STRIPS |
+| [openstacks](domains/openstacks-metric-time) | metric, time | PDDL |
+| [openstacks](domains/openstacks-metric-time-strips) | metric, time | STRIPS |
 | [openstacks](domains/openstacks-preferences-simple) | preferences (simple) | PDDL |
 | [openstacks](domains/openstacks-preferences-qualitative) | preferences (qualitative) | PDDL |
 | [pathways](domains/pathways-propositional) | propositional | PDDL |
 | [pathways](domains/pathways-propositional-strips) | propositional | STRIPS |
-| [pathways](domains/pathways-time-metric) | time (metric) | PDDL |
+| [pathways](domains/pathways-metric-time) | metric, time | PDDL |
 | [pathways](domains/pathways-preferences-simple) | preferences (simple) | PDDL |
 | [pathways](domains/pathways-preferences-complex) | preferences (complex) | PDDL |
 | [pipesworld](domains/pipesworld-propositional) | propositional | PDDL |
 | [pipesworld](domains/pipesworld-propositional-strips) | propositional | STRIPS |
-| [pipesworld](domains/pipesworld-time-metric) | time (metric) | PDDL |
-| [pipesworld](domains/pipesworld-time-metric-constraints) | time (metric), constraints | PDDL |
+| [pipesworld](domains/pipesworld-metric-time) | metric, time | PDDL |
+| [pipesworld](domains/pipesworld-metric-time-constraints) | metric, time, constraints | PDDL |
 | [pipesworld](domains/pipesworld-preferences-complex) | preferences (complex) | PDDL |
 | [rovers](domains/rovers-propositional) | propositional | PDDL |
 | [rovers](domains/rovers-propositional-strips) | propositional | STRIPS |

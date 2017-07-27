@@ -1,4 +1,4 @@
-# Pathways (Time (Metric))
+# Pathways (Metric, Time)
 
 ## Domain Description
 

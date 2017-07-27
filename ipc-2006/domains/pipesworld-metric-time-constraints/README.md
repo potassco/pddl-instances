@@ -1,4 +1,4 @@
-# Pipesworld (Time (Metric))
+# Pipesworld (Metric, Time, Constraints)
 
 ## Domain Description
 
@@ -35,33 +35,3 @@ Frederico Liporace and Jörg Hoffmann
 | instance-18.pddl | p18.pddl      |
 | instance-19.pddl | p19.pddl      |
 | instance-20.pddl | p20.pddl      |
-| instance-21.pddl | p21.pddl      |
-| instance-22.pddl | p22.pddl      |
-| instance-23.pddl | p23.pddl      |
-| instance-24.pddl | p24.pddl      |
-| instance-25.pddl | p25.pddl      |
-| instance-26.pddl | p26.pddl      |
-| instance-27.pddl | p27.pddl      |
-| instance-28.pddl | p28.pddl      |
-| instance-29.pddl | p29.pddl      |
-| instance-30.pddl | p30.pddl      |
-| instance-31.pddl | p31.pddl      |
-| instance-32.pddl | p32.pddl      |
-| instance-33.pddl | p33.pddl      |
-| instance-34.pddl | p34.pddl      |
-| instance-35.pddl | p35.pddl      |
-| instance-36.pddl | p36.pddl      |
-| instance-37.pddl | p37.pddl      |
-| instance-38.pddl | p38.pddl      |
-| instance-39.pddl | p39.pddl      |
-| instance-40.pddl | p40.pddl      |
-| instance-41.pddl | p41.pddl      |
-| instance-42.pddl | p42.pddl      |
-| instance-43.pddl | p43.pddl      |
-| instance-44.pddl | p44.pddl      |
-| instance-45.pddl | p45.pddl      |
-| instance-46.pddl | p46.pddl      |
-| instance-47.pddl | p47.pddl      |
-| instance-48.pddl | p48.pddl      |
-| instance-49.pddl | p49.pddl      |
-| instance-50.pddl | p50.pddl      |

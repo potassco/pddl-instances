@@ -1,4 +1,4 @@
-# Openstacks (Time (Metric), STRIPS)
+# Openstacks (Metric, Time, STRIPS)
 
 ## Domain Description
 
