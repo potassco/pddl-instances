@@ -41,6 +41,10 @@
 | [transport](domains/transport-sequential-optimization-strips) | sequential, optimization | STRIPS |
 | [transport](domains/transport-sequential-satisficing-strips) | sequential, satisficing | STRIPS |
 | [transport](domains/transport-temporal-satisficing-numeric-fluents) | temporal, satisficing | numeric fluents |
+| [woodworking](domains/woodworking-net-benefit-optimization-numeric-fluents) | net benefit, optimization | numeric fluents |
+| [woodworking](domains/woodworking-sequential-optimization-strips) | sequential, optimization | STRIPS |
+| [woodworking](domains/woodworking-sequential-satisficing-strips) | sequential, satisficing | STRIPS |
+| [woodworking](domains/woodworking-temporal-satisficing-numeric-fluents) | temporal, satisficing | numeric fluents |
 
 ## Sources
 
