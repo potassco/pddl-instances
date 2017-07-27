@@ -32,6 +32,8 @@
 | [peg solitaire](domains/peg-solitaire-sequential-optimization-strips) | sequential, optimization | STRIPS |
 | [peg solitaire](domains/peg-solitaire-sequential-satisficing-strips) | sequential, satisficing | STRIPS |
 | [peg solitaire](domains/peg-solitaire-temporal-satisficing-strips) | temporal, satisficing | STRIPS |
+| [Scanalyzer 3D](domains/scanalyzer-3d-sequential-optimization-strips) | sequential, optimization | STRIPS |
+| [Scanalyzer 3D](domains/scanalyzer-3d-sequential-satisficing-strips) | sequential, satisficing | STRIPS |
 
 ## Sources
 
