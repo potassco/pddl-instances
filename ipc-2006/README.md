@@ -43,6 +43,17 @@
 | [TPP](domains/tpp-preferences-simple-grounded-preferences) | preferences (simple) | PDDL (grounded preferences) |
 | [TPP](domains/tpp-preferences-qualitative) | preferences (qualitative) | PDDL |
 | [TPP](domains/tpp-preferences-complex) | preferences (complex) | PDDL |
+| [trucks](domains/trucks-propositional) | propositional | PDDL |
+| [trucks](domains/trucks-propositional-strips) | propositional | STRIPS |
+| [trucks](domains/trucks-time) | time | PDDL |
+| [trucks](domains/trucks-time-strips) | time | STRIPS |
+| [trucks](domains/trucks-time-constraints) | time, constraints | PDDL |
+| [trucks](domains/trucks-time-constraints-timed-initial-literals) | time, constraints | PDDL (timed initial literals) |
+| [trucks](domains/trucks-preferences-simple) | preferences (simple) | PDDL |
+| [trucks](domains/trucks-preferences-simple-grounded) | preferences (simple) | PDDL (grounded) |
+| [trucks](domains/trucks-preferences-simple-grounded-preferences) | preferences (simple) | PDDL (grounded preferences) |
+| [trucks](domains/trucks-preferences-qualitative) | preferences (qualitative) | PDDL |
+| [trucks](domains/trucks-preferences-complex) | preferences (complex) | PDDL |
 
 ## Sources
 
@@ -51,7 +62,9 @@
 
 ## Additional Notes
 
-In some cases, semantically identical, **grounded versions** of the domain descriptions were provided.
+In some cases, semantically identical, **grounded formulations** of the domain descriptions were provided.
+
+For the *trucks* domain, a semantically identical formulation with **timed initial literals** instead of *within* constraints.
 
 ## Modifications
 
