@@ -20,6 +20,10 @@
 | [no mystery](domains/no-mystery-sequential-satisficing) | sequential, satisficing |
 | [no mystery](domains/no-mystery-sequential-optimization) | sequential, optimization |
 | [no mystery](domains/no-mystery-sequential-multi-core) | sequential, multi-core |
+| [openstacks](domains/openstacks-sequential-satisficing) | sequential, satisficing |
+| [openstacks](domains/openstacks-sequential-optimization) | sequential, optimization |
+| [openstacks](domains/openstacks-sequential-multi-core) | sequential, multi-core |
+| [openstacks](domains/openstacks-temporal-satisficing) | temporal, satisficing |
 
 ## Sources
 
