@@ -28,6 +28,10 @@
 | [PARC printer](domains/parc-printer-sequential-optimization) | sequential, optimization |
 | [PARC printer](domains/parc-printer-sequential-multi-core) | sequential, multi-core |
 | [PARC printer](domains/parc-printer-temporal-satisficing) | temporal, satisficing |
+| [parking](domains/parking-sequential-satisficing) | sequential, satisficing |
+| [parking](domains/parking-sequential-optimization) | sequential, optimization |
+| [parking](domains/parking-sequential-multi-core) | sequential, multi-core |
+| [parking](domains/parking-temporal-satisficing) | temporal, satisficing |
 
 ## Sources
 
