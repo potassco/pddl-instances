@@ -17,6 +17,9 @@
 | [floor tile](domains/floor-tile-sequential-multi-core) | sequential, multi-core |
 | [floor tile](domains/floor-tile-temporal-satisficing) | temporal, satisficing |
 | [match cellar](domains/match-cellar-temporal-satisficing) | temporal, satisficing |
+| [no mystery](domains/no-mystery-sequential-satisficing) | sequential, satisficing |
+| [no mystery](domains/no-mystery-sequential-optimization) | sequential, optimization |
+| [no mystery](domains/no-mystery-sequential-multi-core) | sequential, multi-core |
 
 ## Sources
 
