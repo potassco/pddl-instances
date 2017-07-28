@@ -8,6 +8,10 @@
 | [barman](domains/barman-sequential-optimization) | sequential, optimization |
 | [barman](domains/barman-sequential-multi-core) | sequential, multi-core |
 | [crew planning](domains/crew-planning-temporal-satisficing) | temporal, satisficing |
+| [elevator](domains/elevator-sequential-satisficing) | sequential, satisficing |
+| [elevator](domains/elevator-sequential-optimization) | sequential, optimization |
+| [elevator](domains/elevator-sequential-multi-core) | sequential, multi-core |
+| [elevator](domains/elevator-temporal-satisficing) | temporal, satisficing |
 
 ## Sources
 
