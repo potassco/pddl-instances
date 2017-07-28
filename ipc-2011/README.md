@@ -24,6 +24,10 @@
 | [openstacks](domains/openstacks-sequential-optimization) | sequential, optimization |
 | [openstacks](domains/openstacks-sequential-multi-core) | sequential, multi-core |
 | [openstacks](domains/openstacks-temporal-satisficing) | temporal, satisficing |
+| [PARC printer](domains/parc-printer-sequential-satisficing) | sequential, satisficing |
+| [PARC printer](domains/parc-printer-sequential-optimization) | sequential, optimization |
+| [PARC printer](domains/parc-printer-sequential-multi-core) | sequential, multi-core |
+| [PARC printer](domains/parc-printer-temporal-satisficing) | temporal, satisficing |
 
 ## Sources
 
