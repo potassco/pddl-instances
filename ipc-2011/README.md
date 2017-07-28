@@ -2,8 +2,11 @@
 
 ## Domains
 
-| domain | track | formulation |
-|--------|-------|-------------|
+| domain | track |
+|--------|-------|
+| [barman](domains/barman-sequential-satisficing) | sequential, satisficing |
+| [barman](domains/barman-sequential-optimization) | sequential, optimization |
+| [barman](domains/barman-sequential-multi-core) | sequential, multi-core |
 
 ## Sources
 
