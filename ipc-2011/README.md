@@ -12,6 +12,10 @@
 | [elevator](domains/elevator-sequential-optimization) | sequential, optimization |
 | [elevator](domains/elevator-sequential-multi-core) | sequential, multi-core |
 | [elevator](domains/elevator-temporal-satisficing) | temporal, satisficing |
+| [floor tile](domains/floor-tile-sequential-satisficing) | sequential, satisficing |
+| [floor tile](domains/floor-tile-sequential-optimization) | sequential, optimization |
+| [floor tile](domains/floor-tile-sequential-multi-core) | sequential, multi-core |
+| [floor tile](domains/floor-tile-temporal-satisficing) | temporal, satisficing |
 
 ## Sources
 
