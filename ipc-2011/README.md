@@ -32,6 +32,10 @@
 | [parking](domains/parking-sequential-optimization) | sequential, optimization |
 | [parking](domains/parking-sequential-multi-core) | sequential, multi-core |
 | [parking](domains/parking-temporal-satisficing) | temporal, satisficing |
+| [peg solitaire](domains/peg-solitaire-sequential-satisficing) | sequential, satisficing |
+| [peg solitaire](domains/peg-solitaire-sequential-optimization) | sequential, optimization |
+| [peg solitaire](domains/peg-solitaire-sequential-multi-core) | sequential, multi-core |
+| [peg solitaire](domains/peg-solitaire-temporal-satisficing) | temporal, satisficing |
 
 ## Sources
 
