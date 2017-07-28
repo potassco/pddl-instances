@@ -16,6 +16,7 @@
 | [floor tile](domains/floor-tile-sequential-optimization) | sequential, optimization |
 | [floor tile](domains/floor-tile-sequential-multi-core) | sequential, multi-core |
 | [floor tile](domains/floor-tile-temporal-satisficing) | temporal, satisficing |
+| [match cellar](domains/match-cellar-temporal-satisficing) | temporal, satisficing |
 
 ## Sources
 
