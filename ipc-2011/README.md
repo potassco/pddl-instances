@@ -36,6 +36,9 @@
 | [peg solitaire](domains/peg-solitaire-sequential-optimization) | sequential, optimization |
 | [peg solitaire](domains/peg-solitaire-sequential-multi-core) | sequential, multi-core |
 | [peg solitaire](domains/peg-solitaire-temporal-satisficing) | temporal, satisficing |
+| [Scanalyzer 3D](domains/scanalyzer-3d-sequential-satisficing) | sequential, satisficing |
+| [Scanalyzer 3D](domains/scanalyzer-3d-sequential-optimization) | sequential, optimization |
+| [Scanalyzer 3D](domains/scanalyzer-3d-sequential-multi-core) | sequential, multi-core |
 
 ## Sources
 
