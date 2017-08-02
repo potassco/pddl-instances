@@ -39,6 +39,10 @@
 | [Scanalyzer 3D](domains/scanalyzer-3d-sequential-satisficing) | sequential, satisficing |
 | [Scanalyzer 3D](domains/scanalyzer-3d-sequential-optimization) | sequential, optimization |
 | [Scanalyzer 3D](domains/scanalyzer-3d-sequential-multi-core) | sequential, multi-core |
+| [Sokoban](domains/sokoban-sequential-satisficing) | sequential, satisficing |
+| [Sokoban](domains/sokoban-sequential-optimization) | sequential, optimization |
+| [Sokoban](domains/sokoban-sequential-multi-core) | sequential, multi-core |
+| [Sokoban](domains/sokoban-temporal-satisficing) | temporal, satisficing |
 
 ## Sources
 
