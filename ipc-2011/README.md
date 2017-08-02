@@ -44,6 +44,9 @@
 | [Sokoban](domains/sokoban-sequential-multi-core) | sequential, multi-core |
 | [Sokoban](domains/sokoban-temporal-satisficing) | temporal, satisficing |
 | [storage](domains/storage-temporal-satisficing) | temporal, satisficing |
+| [tidybot](domains/tidybot-sequential-satisficing) | sequential, satisficing |
+| [tidybot](domains/tidybot-sequential-optimization) | sequential, optimization |
+| [tidybot](domains/tidybot-sequential-multi-core) | sequential, multi-core |
 
 ## Sources
 
