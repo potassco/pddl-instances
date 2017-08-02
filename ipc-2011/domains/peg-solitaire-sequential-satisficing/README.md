@@ -2,7 +2,7 @@
 
 ## Domain Description
 
-This domain models the [Peg Solitaire](http://en.wikipedia.org/wiki/Peg_solitaire) game.
+This domain models the [Peg Solitaire](https://en.wikipedia.org/wiki/Peg_solitaire) game.
 
 ## Authors
 
