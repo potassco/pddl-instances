@@ -43,6 +43,7 @@
 | [Sokoban](domains/sokoban-sequential-optimization) | sequential, optimization |
 | [Sokoban](domains/sokoban-sequential-multi-core) | sequential, multi-core |
 | [Sokoban](domains/sokoban-temporal-satisficing) | temporal, satisficing |
+| [storage](domains/storage-temporal-satisficing) | temporal, satisficing |
 
 ## Sources
 
