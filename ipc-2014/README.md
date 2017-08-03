@@ -4,6 +4,10 @@
 
 | domain | track |
 |--------|-------|
+| [barman](domains/barman-sequential-satisficing) | sequential, satisficing |
+| [barman](domains/barman-sequential-optimal) | sequential, optimal |
+| [barman](domains/barman-sequential-multi-core) | sequential, multi-core |
+| [barman](domains/barman-sequential-agile) | sequential, agile |
 
 ## Sources
 
