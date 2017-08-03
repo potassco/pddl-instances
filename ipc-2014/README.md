@@ -16,6 +16,10 @@
 | [child snack](domains/child-snack-sequential-optimal) | sequential, optimal |
 | [child snack](domains/child-snack-sequential-multi-core) | sequential, multi-core |
 | [child snack](domains/child-snack-sequential-agile) | sequential, agile |
+| [city car](domains/city-car-sequential-satisficing) | sequential, satisficing |
+| [city car](domains/city-car-sequential-optimal) | sequential, optimal |
+| [city car](domains/city-car-sequential-multi-core) | sequential, multi-core |
+| [city car](domains/city-car-sequential-agile) | sequential, agile |
 
 ## Sources
 

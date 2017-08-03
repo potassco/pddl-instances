@@ -1,0 +1,48 @@
+(define (problem citycar-2-2-6)
+(:domain citycar)
+(:objects  
+junction0-0 junction0-1 
+junction1-0 junction1-1 - junction
+car0 car1 car2 car3 car4 car5 - car
+garage0 garage1 - garage
+road0 road1 road2 road3 - road
+)
+(:init
+(same_line junction0-0 junction0-1)
+(same_line junction0-1 junction0-0)
+(same_line junction1-0 junction1-1)
+(same_line junction1-1 junction1-0)
+(same_line junction0-0 junction1-0)
+(same_line junction1-0 junction0-0)
+(same_line junction0-1 junction1-1)
+(same_line junction1-1 junction0-1)
+(diagonal junction0-0 junction1-1)
+(diagonal junction1-1 junction0-0)
+(diagonal junction0-1 junction1-0)
+(diagonal junction1-0 junction0-1)
+(clear junction0-0)
+(clear junction0-1)
+(clear junction1-0)
+(clear junction1-1)
+(at_garage garage0 junction0-1)
+(at_garage garage1 junction0-1)
+(starting car0 garage1)
+(starting car1 garage0)
+(starting car2 garage0)
+(starting car3 garage0)
+(starting car4 garage0)
+(starting car5 garage1)
+(= (total-cost) 0)
+)
+(:goal
+(and
+(arrived car0 junction1-1)
+(arrived car1 junction1-1)
+(arrived car2 junction1-0)
+(arrived car3 junction1-1)
+(arrived car4 junction1-0)
+(arrived car5 junction1-0)
+)
+)
+(:metric minimize (total-cost))
+)
