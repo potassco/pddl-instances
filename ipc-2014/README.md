@@ -21,6 +21,11 @@
 | [city car](domains/city-car-sequential-multi-core) | sequential, multi-core |
 | [city car](domains/city-car-sequential-agile) | sequential, agile |
 | [driver log](domains/driver-log-temporal-satisficing) | temporal, satisficing |
+| [floor tile](domains/floor-tile-sequential-satisficing) | sequential, satisficing |
+| [floor tile](domains/floor-tile-sequential-optimal) | sequential, optimal |
+| [floor tile](domains/floor-tile-sequential-multi-core) | sequential, multi-core |
+| [floor tile](domains/floor-tile-sequential-agile) | sequential, agile |
+| [floor tile](domains/floor-tile-temporal-satisficing) | temporal, satisficing |
 
 ## Sources
 
