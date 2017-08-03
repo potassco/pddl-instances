@@ -2,7 +2,7 @@
 
 ## Domain Description
 
-Domain is inspired by [a paper by Long and Fox][1].
+Domain is inspired by [a paper by Long and Fox](https://www.aaai.org/Papers/ICAPS/2003/ICAPS03-006.pdf).
 The main feature of this domain is that a lighted match is concurrently required to fix a fuse.
 
 ## Authors
@@ -34,8 +34,3 @@ Bharat Ranjan Kavuluri
 | instance-18.pddl | pfile17.pddl  |
 | instance-19.pddl | pfile18.pddl  |
 | instance-20.pddl | pfile19.pddl  |
-
-
-
-
-[1]:https://www.aaai.org/Papers/ICAPS/2003/ICAPS03-006.pdf
