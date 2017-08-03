@@ -65,6 +65,10 @@
 | [transport](domains/transport-sequential-optimal) | sequential, optimal |
 | [transport](domains/transport-sequential-multi-core) | sequential, multi-core |
 | [transport](domains/transport-sequential-agile) | sequential, agile |
+| [visit all](domains/visit-all-sequential-satisficing) | sequential, satisficing |
+| [visit all](domains/visit-all-sequential-optimal) | sequential, optimal |
+| [visit all](domains/visit-all-sequential-multi-core) | sequential, multi-core |
+| [visit all](domains/visit-all-sequential-agile) | sequential, agile |
 
 ## Sources
 
