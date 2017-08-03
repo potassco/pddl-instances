@@ -40,6 +40,10 @@
 | [maintenance](domains/maintenance-sequential-agile) | sequential, agile |
 | [map analyzer](domains/map-analyzer-temporal-satisficing) | temporal, satisficing |
 | [match cellar](domains/match-cellar-temporal-satisficing) | temporal, satisficing |
+| [openstacks](domains/openstacks-sequential-satisficing) | sequential, satisficing |
+| [openstacks](domains/openstacks-sequential-optimal) | sequential, optimal |
+| [openstacks](domains/openstacks-sequential-multi-core) | sequential, multi-core |
+| [openstacks](domains/openstacks-sequential-agile) | sequential, agile |
 
 ## Sources
 
