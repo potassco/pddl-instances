@@ -30,6 +30,10 @@
 | [genome edit distances](domains/genome-edit-distances-sequential-optimal) | sequential, optimal |
 | [genome edit distances](domains/genome-edit-distances-sequential-multi-core) | sequential, multi-core |
 | [genome edit distances](domains/genome-edit-distances-sequential-agile) | sequential, agile |
+| [hiking](domains/hiking-sequential-satisficing) | sequential, satisficing |
+| [hiking](domains/hiking-sequential-optimal) | sequential, optimal |
+| [hiking](domains/hiking-sequential-multi-core) | sequential, multi-core |
+| [hiking](domains/hiking-sequential-agile) | sequential, agile |
 
 ## Sources
 
