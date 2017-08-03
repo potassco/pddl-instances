@@ -52,6 +52,7 @@
 | [road traffic accident management](domains/road-traffic-accident-management-temporal-satisficing) | temporal, satisficing |
 | [satellite](domains/satellite-temporal-satisficing) | temporal, satisficing |
 | [storage](domains/storage-temporal-satisficing) | temporal, satisficing |
+| [temporal machine shop](domains/temporal-machine-shop-temporal-satisficing) | temporal, satisficing |
 
 ## Sources
 
