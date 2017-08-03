@@ -52,6 +52,9 @@
 | [transport](domains/transport-sequential-optimization) | sequential, optimization |
 | [transport](domains/transport-sequential-multi-core) | sequential, multi-core |
 | [turn and open](domains/turn-and-open-temporal-satisficing) | temporal, satisficing |
+| [visit all](domains/visit-all-sequential-satisficing) | sequential, satisficing |
+| [visit all](domains/visit-all-sequential-optimization) | sequential, optimization |
+| [visit all](domains/visit-all-sequential-multi-core) | sequential, multi-core |
 
 ## Sources
 
