@@ -8,6 +8,10 @@
 | [barman](domains/barman-sequential-optimal) | sequential, optimal |
 | [barman](domains/barman-sequential-multi-core) | sequential, multi-core |
 | [barman](domains/barman-sequential-agile) | sequential, agile |
+| [cave diving](domains/cave-diving-sequential-satisficing) | sequential, satisficing |
+| [cave diving](domains/cave-diving-sequential-optimal) | sequential, optimal |
+| [cave diving](domains/cave-diving-sequential-multi-core) | sequential, multi-core |
+| [cave diving](domains/cave-diving-sequential-agile) | sequential, agile |
 
 ## Sources
 
