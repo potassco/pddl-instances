@@ -34,6 +34,10 @@
 | [hiking](domains/hiking-sequential-optimal) | sequential, optimal |
 | [hiking](domains/hiking-sequential-multi-core) | sequential, multi-core |
 | [hiking](domains/hiking-sequential-agile) | sequential, agile |
+| [maintenance](domains/maintenance-sequential-satisficing) | sequential, satisficing |
+| [maintenance](domains/maintenance-sequential-optimal) | sequential, optimal |
+| [maintenance](domains/maintenance-sequential-multi-core) | sequential, multi-core |
+| [maintenance](domains/maintenance-sequential-agile) | sequential, agile |
 
 ## Sources
 
