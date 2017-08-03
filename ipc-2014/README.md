@@ -69,6 +69,7 @@
 | [visit all](domains/visit-all-sequential-optimal) | sequential, optimal |
 | [visit all](domains/visit-all-sequential-multi-core) | sequential, multi-core |
 | [visit all](domains/visit-all-sequential-agile) | sequential, agile |
+| [turn and open](domains/turn-and-open-temporal-satisficing) | temporal, satisficing |
 
 ## Sources
 
