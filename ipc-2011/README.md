@@ -55,6 +55,9 @@
 | [visit all](domains/visit-all-sequential-satisficing) | sequential, satisficing |
 | [visit all](domains/visit-all-sequential-optimization) | sequential, optimization |
 | [visit all](domains/visit-all-sequential-multi-core) | sequential, multi-core |
+| [woodworking](domains/woodworking-sequential-satisficing) | sequential, satisficing |
+| [woodworking](domains/woodworking-sequential-optimization) | sequential, optimization |
+| [woodworking](domains/woodworking-sequential-multi-core) | sequential, multi-core |
 
 ## Sources
 
