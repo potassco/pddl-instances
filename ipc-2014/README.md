@@ -39,6 +39,7 @@
 | [maintenance](domains/maintenance-sequential-multi-core) | sequential, multi-core |
 | [maintenance](domains/maintenance-sequential-agile) | sequential, agile |
 | [map analyzer](domains/map-analyzer-temporal-satisficing) | temporal, satisficing |
+| [match cellar](domains/match-cellar-temporal-satisficing) | temporal, satisficing |
 
 ## Sources
 
