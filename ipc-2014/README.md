@@ -12,6 +12,10 @@
 | [cave diving](domains/cave-diving-sequential-optimal) | sequential, optimal |
 | [cave diving](domains/cave-diving-sequential-multi-core) | sequential, multi-core |
 | [cave diving](domains/cave-diving-sequential-agile) | sequential, agile |
+| [child snack](domains/child-snack-sequential-satisficing) | sequential, satisficing |
+| [child snack](domains/child-snack-sequential-optimal) | sequential, optimal |
+| [child snack](domains/child-snack-sequential-multi-core) | sequential, multi-core |
+| [child snack](domains/child-snack-sequential-agile) | sequential, agile |
 
 ## Sources
 
