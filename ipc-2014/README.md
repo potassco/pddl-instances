@@ -57,6 +57,9 @@
 | [Tetris](domains/tetris-sequential-optimal) | sequential, optimal |
 | [Tetris](domains/tetris-sequential-multi-core) | sequential, multi-core |
 | [Tetris](domains/tetris-sequential-agile) | sequential, agile |
+| [Thoughtful](domains/thoughtful-sequential-satisficing) | sequential, satisficing |
+| [Thoughtful](domains/thoughtful-sequential-multi-core) | sequential, multi-core |
+| [Thoughtful](domains/thoughtful-sequential-agile) | sequential, agile |
 
 ## Sources
 
