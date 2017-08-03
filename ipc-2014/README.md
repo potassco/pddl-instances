@@ -61,6 +61,10 @@
 | [Thoughtful](domains/thoughtful-sequential-multi-core) | sequential, multi-core |
 | [Thoughtful](domains/thoughtful-sequential-agile) | sequential, agile |
 | [tidybot](domains/tidybot-sequential-optimal) | sequential, optimal |
+| [transport](domains/transport-sequential-satisficing) | sequential, satisficing |
+| [transport](domains/transport-sequential-optimal) | sequential, optimal |
+| [transport](domains/transport-sequential-multi-core) | sequential, multi-core |
+| [transport](domains/transport-sequential-agile) | sequential, agile |
 
 ## Sources
 
