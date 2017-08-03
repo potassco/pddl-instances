@@ -26,6 +26,10 @@
 | [floor tile](domains/floor-tile-sequential-multi-core) | sequential, multi-core |
 | [floor tile](domains/floor-tile-sequential-agile) | sequential, agile |
 | [floor tile](domains/floor-tile-temporal-satisficing) | temporal, satisficing |
+| [genome edit distances](domains/genome-edit-distances-sequential-satisficing) | sequential, satisficing |
+| [genome edit distances](domains/genome-edit-distances-sequential-optimal) | sequential, optimal |
+| [genome edit distances](domains/genome-edit-distances-sequential-multi-core) | sequential, multi-core |
+| [genome edit distances](domains/genome-edit-distances-sequential-agile) | sequential, agile |
 
 ## Sources
 
