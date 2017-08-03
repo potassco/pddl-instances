@@ -60,6 +60,7 @@
 | [Thoughtful](domains/thoughtful-sequential-satisficing) | sequential, satisficing |
 | [Thoughtful](domains/thoughtful-sequential-multi-core) | sequential, multi-core |
 | [Thoughtful](domains/thoughtful-sequential-agile) | sequential, agile |
+| [tidybot](domains/tidybot-sequential-optimal) | sequential, optimal |
 
 ## Sources
 
