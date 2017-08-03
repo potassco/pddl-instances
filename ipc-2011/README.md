@@ -48,6 +48,9 @@
 | [tidybot](domains/tidybot-sequential-satisficing) | sequential, satisficing |
 | [tidybot](domains/tidybot-sequential-optimization) | sequential, optimization |
 | [tidybot](domains/tidybot-sequential-multi-core) | sequential, multi-core |
+| [transport](domains/transport-sequential-satisficing) | sequential, satisficing |
+| [transport](domains/transport-sequential-optimization) | sequential, optimization |
+| [transport](domains/transport-sequential-multi-core) | sequential, multi-core |
 
 ## Sources
 
