@@ -53,6 +53,10 @@
 | [satellite](domains/satellite-temporal-satisficing) | temporal, satisficing |
 | [storage](domains/storage-temporal-satisficing) | temporal, satisficing |
 | [temporal machine shop](domains/temporal-machine-shop-temporal-satisficing) | temporal, satisficing |
+| [Tetris](domains/tetris-sequential-satisficing) | sequential, satisficing |
+| [Tetris](domains/tetris-sequential-optimal) | sequential, optimal |
+| [Tetris](domains/tetris-sequential-multi-core) | sequential, multi-core |
+| [Tetris](domains/tetris-sequential-agile) | sequential, agile |
 
 ## Sources
 
