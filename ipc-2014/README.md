@@ -51,6 +51,7 @@
 | [parking](domains/parking-temporal-satisficing) | temporal, satisficing |
 | [road traffic accident management](domains/road-traffic-accident-management-temporal-satisficing) | temporal, satisficing |
 | [satellite](domains/satellite-temporal-satisficing) | temporal, satisficing |
+| [storage](domains/storage-temporal-satisficing) | temporal, satisficing |
 
 ## Sources
 
