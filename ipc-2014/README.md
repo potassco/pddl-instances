@@ -20,6 +20,7 @@
 | [city car](domains/city-car-sequential-optimal) | sequential, optimal |
 | [city car](domains/city-car-sequential-multi-core) | sequential, multi-core |
 | [city car](domains/city-car-sequential-agile) | sequential, agile |
+| [driver log](domains/driver-log-temporal-satisficing) | temporal, satisficing |
 
 ## Sources
 
