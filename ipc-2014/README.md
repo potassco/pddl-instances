@@ -44,6 +44,11 @@
 | [openstacks](domains/openstacks-sequential-optimal) | sequential, optimal |
 | [openstacks](domains/openstacks-sequential-multi-core) | sequential, multi-core |
 | [openstacks](domains/openstacks-sequential-agile) | sequential, agile |
+| [parking](domains/parking-sequential-satisficing) | sequential, satisficing |
+| [parking](domains/parking-sequential-optimal) | sequential, optimal |
+| [parking](domains/parking-sequential-multi-core) | sequential, multi-core |
+| [parking](domains/parking-sequential-agile) | sequential, agile |
+| [parking](domains/parking-temporal-satisficing) | temporal, satisficing |
 
 ## Sources
 
