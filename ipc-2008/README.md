@@ -4,45 +4,45 @@
 
 | domain | track | formulation |
 |--------|-------|-------------|
-| [crew planning](domains/crew-planning-net-benefit-optimization-numeric-fluents) | net benefit, optimization | numeric fluents |
+| [crew planning](domains/crew-planning-net-benefit-optimal-numeric-fluents) | net benefit, optimal | numeric fluents |
 | [crew planning](domains/crew-planning-temporal-satisficing-strips) | temporal, satisficing | STRIPS |
 | [cyber security](domains/cyber-security-sequential-satisficing-strips) | sequential, satisficing | STRIPS |
-| [elevator](domains/elevator-net-benefit-optimization-numeric-fluents) | net benefit, optimization | numeric fluents |
-| [elevator](domains/elevator-net-benefit-optimization-strips) | net benefit, optimization | STRIPS |
-| [elevator](domains/elevator-sequential-optimization-strips) | sequential, optimization | STRIPS |
+| [elevator](domains/elevator-net-benefit-optimal-numeric-fluents) | net benefit, optimal | numeric fluents |
+| [elevator](domains/elevator-net-benefit-optimal-strips) | net benefit, optimal | STRIPS |
+| [elevator](domains/elevator-sequential-optimal-strips) | sequential, optimal | STRIPS |
 | [elevator](domains/elevator-sequential-satisficing-strips) | sequential, satisficing | STRIPS |
 | [elevator](domains/elevator-temporal-satisficing-numeric-fluents) | temporal, satisficing | numeric fluents |
 | [elevator](domains/elevator-temporal-satisficing-strips) | temporal, satisficing | STRIPS |
 | [model train](domains/model-train-temporal-satisficing-numeric-fluents) | temporal, satisficing | numeric fluents |
-| [openstacks](domains/openstacks-net-benefit-optimization-adl-numeric-fluents) | net benefit, optimization | ADL, numeric fluents |
-| [openstacks](domains/openstacks-net-benefit-optimization-adl) | net benefit, optimization | ADL |
-| [openstacks](domains/openstacks-net-benefit-optimization-strips-negative-preconditions) | net benefit, optimization | STRIPS, negative preconditions |
-| [openstacks](domains/openstacks-sequential-optimization-adl) | sequential, optimization | ADL |
-| [openstacks](domains/openstacks-sequential-optimization-strips) | sequential, optimization | STRIPS |
+| [openstacks](domains/openstacks-net-benefit-optimal-adl-numeric-fluents) | net benefit, optimal | ADL, numeric fluents |
+| [openstacks](domains/openstacks-net-benefit-optimal-adl) | net benefit, optimal | ADL |
+| [openstacks](domains/openstacks-net-benefit-optimal-strips-negative-preconditions) | net benefit, optimal | STRIPS, negative preconditions |
+| [openstacks](domains/openstacks-sequential-optimal-adl) | sequential, optimal | ADL |
+| [openstacks](domains/openstacks-sequential-optimal-strips) | sequential, optimal | STRIPS |
 | [openstacks](domains/openstacks-sequential-satisficing-adl) | sequential, satisficing | ADL |
 | [openstacks](domains/openstacks-sequential-satisficing-strips) | sequential, satisficing | STRIPS |
 | [openstacks](domains/openstacks-temporal-satisficing-adl-numeric-fluents) | temporal, satisficing | ADL, numeric fluents |
 | [openstacks](domains/openstacks-temporal-satisficing-adl) | temporal, satisficing | ADL |
 | [openstacks](domains/openstacks-temporal-satisficing-numeric-fluents) | temporal, satisficing | numeric fluents |
 | [openstacks](domains/openstacks-temporal-satisficing-strips) | temporal, satisficing | STRIPS |
-| [PARC printer](domains/parc-printer-sequential-optimization-strips) | sequential, optimization | STRIPS |
+| [PARC printer](domains/parc-printer-sequential-optimal-strips) | sequential, optimal | STRIPS |
 | [PARC printer](domains/parc-printer-sequential-satisficing-strips) | sequential, satisficing | STRIPS |
 | [PARC printer](domains/parc-printer-temporal-satisficing-strips) | temporal, satisficing | STRIPS |
-| [peg solitaire](domains/peg-solitaire-net-benefit-optimization-strips) | net benefit, optimization | STRIPS |
-| [peg solitaire](domains/peg-solitaire-sequential-optimization-strips) | sequential, optimization | STRIPS |
+| [peg solitaire](domains/peg-solitaire-net-benefit-optimal-strips) | net benefit, optimal | STRIPS |
+| [peg solitaire](domains/peg-solitaire-sequential-optimal-strips) | sequential, optimal | STRIPS |
 | [peg solitaire](domains/peg-solitaire-sequential-satisficing-strips) | sequential, satisficing | STRIPS |
 | [peg solitaire](domains/peg-solitaire-temporal-satisficing-strips) | temporal, satisficing | STRIPS |
-| [Scanalyzer 3D](domains/scanalyzer-3d-sequential-optimization-strips) | sequential, optimization | STRIPS |
+| [Scanalyzer 3D](domains/scanalyzer-3d-sequential-optimal-strips) | sequential, optimal | STRIPS |
 | [Scanalyzer 3D](domains/scanalyzer-3d-sequential-satisficing-strips) | sequential, satisficing | STRIPS |
-| [Sokoban](domains/sokoban-sequential-optimization-strips) | sequential, optimization | STRIPS |
+| [Sokoban](domains/sokoban-sequential-optimal-strips) | sequential, optimal | STRIPS |
 | [Sokoban](domains/sokoban-sequential-satisficing-strips) | sequential, satisficing | STRIPS |
 | [Sokoban](domains/sokoban-temporal-satisficing-strips) | temporal, satisficing | STRIPS |
-| [transport](domains/transport-net-benefit-optimization-numeric-fluents) | net benefit, optimization | numeric fluents |
-| [transport](domains/transport-sequential-optimization-strips) | sequential, optimization | STRIPS |
+| [transport](domains/transport-net-benefit-optimal-numeric-fluents) | net benefit, optimal | numeric fluents |
+| [transport](domains/transport-sequential-optimal-strips) | sequential, optimal | STRIPS |
 | [transport](domains/transport-sequential-satisficing-strips) | sequential, satisficing | STRIPS |
 | [transport](domains/transport-temporal-satisficing-numeric-fluents) | temporal, satisficing | numeric fluents |
-| [woodworking](domains/woodworking-net-benefit-optimization-numeric-fluents) | net benefit, optimization | numeric fluents |
-| [woodworking](domains/woodworking-sequential-optimization-strips) | sequential, optimization | STRIPS |
+| [woodworking](domains/woodworking-net-benefit-optimal-numeric-fluents) | net benefit, optimal | numeric fluents |
+| [woodworking](domains/woodworking-sequential-optimal-strips) | sequential, optimal | STRIPS |
 | [woodworking](domains/woodworking-sequential-satisficing-strips) | sequential, satisficing | STRIPS |
 | [woodworking](domains/woodworking-temporal-satisficing-numeric-fluents) | temporal, satisficing | numeric fluents |
 
