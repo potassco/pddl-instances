@@ -2,7 +2,7 @@
 
 ## Domain Description
 
-This domain is original from the learning part of IPC 2008.
+This domain is originally from the learning part of IPC 2008.
 The domain represents a well-known solitaire card game.
 
 ## Authors
