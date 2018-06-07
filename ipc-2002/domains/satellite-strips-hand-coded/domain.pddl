@@ -68,7 +68,6 @@
                       (supports ?i ?m)
                       (power_on ?i)
                       (pointing ?s ?d)
-                      (power_on ?i)
                )
    :effect (have_image ?d ?m)
   )
