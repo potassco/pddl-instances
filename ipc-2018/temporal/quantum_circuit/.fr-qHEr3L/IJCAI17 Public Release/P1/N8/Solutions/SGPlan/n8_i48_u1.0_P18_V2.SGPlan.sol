@@ -1,0 +1,26 @@
+
+; Time 0.03
+; ParsingTime 0.02
+; NrActions 18
+; MakeSpan
+; MetricValue 20.018
+; PlanningTechnique Modified-FF(enforced hill-climbing search) as the subplanner
+
+0.001: (SWAP_1_2 Q1 Q2) [2.0000]
+0.002: (U_GOAL_ACTION_5_8 Q5 Q8) [3.0000]
+0.003: (U_GOAL_ACTION_6_7 Q6 Q7) [4.0000]
+2.004: (SWAP_1_4 Q2 Q4) [2.0000]
+2.005: (SWAP_2_3 Q1 Q3) [2.0000]
+4.006: (U_GOAL_ACTION_4_6 Q2 Q6) [4.0000]
+4.007: (SWAP_7_8 Q7 Q8) [2.0000]
+6.008: (SWAP_5_8 Q5 Q7) [2.0000]
+8.009: (U_GOAL_ACTION_1_4 Q4 Q2) [3.0000]
+8.010: (SWAP_6_7 Q6 Q8) [2.0000]
+8.011: (U_GOAL_ACTION_3_5 Q1 Q7) [4.0000]
+10.012: (U_GOAL_ACTION_7_8 Q6 Q5) [3.0000]
+11.013: (SWAP_4_6 Q2 Q8) [2.0000]
+13.014: (SWAP_1_4 Q4 Q8) [2.0000]
+13.015: (SWAP_6_7 Q2 Q6) [2.0000]
+15.016: (U_GOAL_ACTION_1_2 Q8 Q3) [3.0000]
+15.017: (SWAP_7_8 Q2 Q5) [2.0000]
+17.018: (U_GOAL_ACTION_5_8 Q7 Q2) [3.0000]
