@@ -1,0 +1,31 @@
+
+; Version LPG-td-1.0
+; Seed 111057992
+; Command line: lpg -o ../../Problems/domain_n8_i44_u1.0_P1_V2.pddl -f ../../Problems/problem_n8_i44_u1.0_P1_V2.pddl -out n8_i44_u1.0_P1_V2.LPG.sol -n 10 -cputime 300 
+; Problem ../../Problems/problem_n8_i44_u1.0_P1_V2.pddl
+; Solution found using Local Search in the space of Action Graphs
+; Time 22.62
+; Search time 22.59
+; Parsing time 0.01
+; Mutex time 0.02
+; MakeSpan 23.00
+
+
+0.0002:   (U_GOAL_ACTION_1_2 Q1 Q2) [3.0000]
+0.0002:   (SWAP_5_8 Q5 Q8) [2.0000]
+3.0004:   (SWAP_2_3 Q2 Q3) [2.0000]
+5.0006:   (SWAP_3_5 Q2 Q8) [2.0000]
+0.0002:   (U_GOAL_ACTION_6_7 Q6 Q7) [4.0000]
+4.0004:   (SWAP_4_6 Q4 Q6) [2.0000]
+6.0006:   (SWAP_1_4 Q1 Q6) [2.0000]
+8.0008:   (U_GOAL_ACTION_1_2 Q6 Q3) [3.0000]
+4.0004:   (SWAP_7_8 Q7 Q5) [2.0000]
+6.0006:   (U_GOAL_ACTION_6_7 Q4 Q5) [4.0000]
+7.0008:   (U_GOAL_ACTION_5_8 Q2 Q7) [3.0000]
+10.0010:   (SWAP_7_8 Q5 Q7) [2.0000]
+12.0012:   (U_GOAL_ACTION_6_7 Q4 Q7) [4.0000]
+16.0014:   (U_GOAL_ACTION_7_8 Q7 Q5) [3.0000]
+16.0014:   (SWAP_4_6 Q1 Q4) [2.0000]
+19.0016:   (U_GOAL_ACTION_6_7 Q1 Q7) [4.0000]
+
+
