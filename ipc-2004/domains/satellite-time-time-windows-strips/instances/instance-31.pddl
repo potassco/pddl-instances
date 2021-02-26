@@ -24849,7 +24849,7 @@
 	(sent_image Planet151 infrared0)
 	(sent_image Phenomenon152 infrared0)
 	(sent_image Phenomenon153 infrared1)
-	(senty_image Planet154 infrared1)
+	(sent_image Planet154 infrared1)
 ))
 (:metric minimize (total-time))
 
