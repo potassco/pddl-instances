@@ -9,7 +9,7 @@
 
 
 (define (domain airport_durative)
-(:requirements :durative-actions :adl)
+(:requirements :durative-actions :adl :numeric-fluents)
 
 (:types airplane segment direction airplanetype)
 
