@@ -9,7 +9,8 @@
  ;; equality needed for blocked transition in case of a mismatch 
  
  :typing :negative-preconditions :disjunctive-preconditions :universal-preconditions :conditional-effects) 
-(:types process proctype state queue transition message
+(:types process proctype state queue transition 
+        number message
  ;; tags for size and messages 
  
         queuetype queue-state
