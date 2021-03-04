@@ -9,8 +9,7 @@
  ;; equality needed for blocked transition in case of a mismatch 
  
  :typing) 
-(:types process proctype state queue transition 
-        number message
+(:types process proctype state queue transition message
  ;; tags for size and messages 
  
         queuetype queue-state
